@@ -297,7 +297,7 @@ def collect():
                 visible = (item["title"] + " " + item["body"]) if item else ""
                 # Keep destination addresses out of the public feed even if a source mentions one.
                 if item and not re.search(r"(?:https?://|www\.|[a-z0-9-]+\.(?:com|net|kr|org))", visible, re.I):
-                    posts.append({"source_id": key, "source_url": url, **item})
+                    posts.append({"source_id": key, "source_url": final_url, **item})
             except ActionRequired:
                 continue
     if not posts:
