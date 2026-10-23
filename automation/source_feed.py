@@ -298,6 +298,8 @@ def collect():
                 # Keep destination addresses out of the public feed even if a source mentions one.
                 if item and not re.search(r"(?:https?://|www\.|[a-z0-9-]+\.(?:com|net|kr|org))", visible, re.I):
                     posts.append({"source_id": key, "source_url": final_url, **item})
+                    if len(posts) >= 10:
+                        break
             except ActionRequired:
                 continue
     if not posts:
