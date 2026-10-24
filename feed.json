@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:26:18.642146+00:00",
+  "generated_at": "2026-10-24T02:14:58.057706+00:00",
   "posts": [
     {
       "source_id": "hu:1429823",
@@ -353,29 +353,6 @@
       ]
     },
     {
-      "source_id": "hu:1429883",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1429883",
-      "title": "빈유 안드로이드 아내가 배송된 만화",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:3fe395d7e00f28a88eaf16fea63a391b9641fb1749c0aaaf1a53368979089f13\"/>\n</div>\n</div>\n</div>\n<p>\n\n</p><div>\n<div>\n<span>\n<img alt=\"\" src=\"asset:e86513fa64b9e1abc09950152b0921c9d96d6af8cc4b93858c1ee32c75780266\"/>\n</span> <img alt=\"\" src=\"asset:3bbe6ef22a8fd9505659a57838f9717dd6651b627cd8861c155d4e7b06861b2a\"/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "3fe395d7e00f28a88eaf16fea63a391b9641fb1749c0aaaf1a53368979089f13",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w837bcd001_5dd2f4c1e7b97a16d1c1230c85d47bfe76c2a2a3.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "e86513fa64b9e1abc09950152b0921c9d96d6af8cc4b93858c1ee32c75780266",
-          "source_url": "https://m.humoruniv.com/images/loading_bar2.gif",
-          "mime": "image/gif"
-        },
-        {
-          "digest": "3bbe6ef22a8fd9505659a57838f9717dd6651b627cd8861c155d4e7b06861b2a",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sc84c04002_a48ae4175870e483c4a12c4d3060e72f33e6d35e.webp",
-          "mime": "image/webp"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1429894",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1429894",
       "title": "사우디가 사간 천무 근황 ㅋㅋㅋ",
@@ -395,6 +372,19 @@
           "digest": "1d5bf3381509ca0d513851038fad4641013730c3f40068f9e6a77df6bc596a05",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sd066ca002_0819782636db7f2a67d0617ed965899aff4328f9.webp",
           "mime": "image/webp"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1429888",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1429888",
+      "title": "일본 차원 달라",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:8fc8fc38a5174a21f456dfd69b46f982ebe33a99e0817f2c7a5a330b1cf8b760\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t신기.\n\n</p>\n",
+      "images": [
+        {
+          "digest": "8fc8fc38a5174a21f456dfd69b46f982ebe33a99e0817f2c7a5a330b1cf8b760",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w779e82001_3f2261520ea12f453596dce44b01af9e58f6e6d4.jpg",
+          "mime": "image/jpeg"
         }
       ]
     },
