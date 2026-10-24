@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T05:11:25.873081+00:00",
+  "generated_at": "2026-10-24T06:09:11.809767+00:00",
   "posts": [
     {
       "source_id": "hu:1429823",
@@ -29,24 +29,6 @@
           "digest": "27bd83f723aa9ce339b094807b7256a7dbec0dc20e256ab29c1a44b47e7fceae",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s4fb95c001_3de6173f0c3944ea93b2e4fef2647040981e74c9.webp",
           "mime": "image/webp"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1429828",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1429828&from=best",
-      "title": "김밥축제 근황",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:1371f2605c4bb6abde9fbb88baf2f5cbc834887cab0eb3b5871e155ccc30844d\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:e4be24a8064171c13cc47ba50e571adcf8128834a1b63acbf2ea70f61f68dc3f\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t평일인데 이정도면...<br/>\n주말에 비예보가 변수이긴 하지만<br/>\n이대로가면 이번에도 주최측의 패배로 끝나는건가?<br/>\n<br/>\n참고<br/>\n2026 김밥축제 예산 : 8.7억<br/>\n여수박람회 : 1,800억<br/>\n<br/>\n1여수 = 207 김천\n\n</p>\n",
-      "images": [
-        {
-          "digest": "1371f2605c4bb6abde9fbb88baf2f5cbc834887cab0eb3b5871e155ccc30844d",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w4cf7c3001_32f5474adc123a9a4caa088ba52f42e45c028a56.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "e4be24a8064171c13cc47ba50e571adcf8128834a1b63acbf2ea70f61f68dc3f",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w4cf7c3002_3e29299b20c3ad7899da961103fe0b6e766df5c5.jpg",
-          "mime": "image/jpeg"
         }
       ]
     },
@@ -94,6 +76,24 @@
         {
           "digest": "9d207da93a9ba4496122b9d71e67f8332d1db9f02d120b92f50d77b771ad3260",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s7c53d3008_a5e0378c230e01bbbe43953a47f37b67ee1c4ab8.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1429828",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1429828&from=best",
+      "title": "김밥축제 근황",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:1371f2605c4bb6abde9fbb88baf2f5cbc834887cab0eb3b5871e155ccc30844d\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:e4be24a8064171c13cc47ba50e571adcf8128834a1b63acbf2ea70f61f68dc3f\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t평일인데 이정도면...<br/>\n주말에 비예보가 변수이긴 하지만<br/>\n이대로가면 이번에도 주최측의 패배로 끝나는건가?<br/>\n<br/>\n참고<br/>\n2026 김밥축제 예산 : 8.7억<br/>\n여수박람회 : 1,800억<br/>\n<br/>\n1여수 = 207 김천\n\n</p>\n",
+      "images": [
+        {
+          "digest": "1371f2605c4bb6abde9fbb88baf2f5cbc834887cab0eb3b5871e155ccc30844d",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w4cf7c3001_32f5474adc123a9a4caa088ba52f42e45c028a56.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "e4be24a8064171c13cc47ba50e571adcf8128834a1b63acbf2ea70f61f68dc3f",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w4cf7c3002_3e29299b20c3ad7899da961103fe0b6e766df5c5.jpg",
           "mime": "image/jpeg"
         }
       ]
@@ -156,37 +156,32 @@
       ]
     },
     {
-      "source_id": "hu:1429897",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1429897",
-      "title": "대구 2500원 핫도그 클라스",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:519fb0c08fd691e90669967456f513d6b7b494ea646da95297ac1f9de7850b75\"/>\n</div>\n</div>\n</div>\n<p>\n\n</p><div>.</div>\n<p></p>\n",
+      "source_id": "hu:1429913",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1429913",
+      "title": "후원 아동에게 아무 것도 해준 게 없어서 울었어",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:621076accdce53a6f2a8a1337dd6cbfdf13492d61f6ab56b81178aa9f614a748\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:98060411023442f72d7eb91ace547bf998714f89cea08ea0aac4df87248d6477\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
       "images": [
         {
-          "digest": "519fb0c08fd691e90669967456f513d6b7b494ea646da95297ac1f9de7850b75",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/hu_1792803224_5701723635.webp",
-          "mime": "image/webp"
+          "digest": "621076accdce53a6f2a8a1337dd6cbfdf13492d61f6ab56b81178aa9f614a748",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s4edbdd002_69efaa9dc6dad33637a0805c57981cf5f92cf2de.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "98060411023442f72d7eb91ace547bf998714f89cea08ea0aac4df87248d6477",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s4edbdd003_959afb0f4d819c1d4337f5b7e98dcc065b07878c.jpg",
+          "mime": "image/jpeg"
         }
       ]
     },
     {
-      "source_id": "hu:1429899",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1429899",
-      "title": "중국 최고를 외친 중뽕러의 마지막.jpg",
-      "body": "\n<p>\n\n</p><div><p>\n</p><div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:c5816135e63fc738eea8067f0d50f9ede62f690946c07052c94ebb11d36dadf7\"/>\n</div>\n</div>\n</div><p></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>\n<span>\n<img alt=\"\" src=\"asset:e86513fa64b9e1abc09950152b0921c9d96d6af8cc4b93858c1ee32c75780266\"/>\n</span> <img alt=\"\" src=\"asset:02d250974d58b476f67a87b9890fb7f025b0defb71e55bf3a015d71280e8e653\"/></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p></div>\n<p></p>\n",
+      "source_id": "hu:1429908",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1429908",
+      "title": "아겜 군면제 사실상 폐지 확정적",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:18a2cbb52137c43adf43a1acf3314c435ed168aec32eb394561de24e0c5b3261\"/>\n</div>\n</div>\n</div>\n<p>\n\n</p><div>여파가</div>\n<p></p>\n",
       "images": [
         {
-          "digest": "c5816135e63fc738eea8067f0d50f9ede62f690946c07052c94ebb11d36dadf7",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e5b297a001_88088e021f0addbc0738cf0150509f8de9c5c10c.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "e86513fa64b9e1abc09950152b0921c9d96d6af8cc4b93858c1ee32c75780266",
-          "source_url": "https://m.humoruniv.com/images/loading_bar2.gif",
-          "mime": "image/gif"
-        },
-        {
-          "digest": "02d250974d58b476f67a87b9890fb7f025b0defb71e55bf3a015d71280e8e653",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e5b297a002_14463cb81dd00a5b2778f5f8a1ac6cb2f11a579d.webp",
+          "digest": "18a2cbb52137c43adf43a1acf3314c435ed168aec32eb394561de24e0c5b3261",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/hu_1792810416_6761235344.webp",
           "mime": "image/webp"
         }
       ]
