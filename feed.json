@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:10:45.674118+00:00",
+  "generated_at": "2026-10-26T18:53:47.145377+00:00",
   "posts": [
     {
       "source_id": "hu:1430112",
@@ -47,24 +47,6 @@
           "digest": "ee063cf3d25d91acb859aaa9b6a9e08a9ec38c1ae2765880fe19a98db15059fa",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s2fd2e3002_c6ecefeb552f151871c7e7abdabeb288a2e7cb98.jpg",
           "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1430198",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430198",
-      "title": "부대찌개 1인분을 주문했는데 2인분으로 잘못 나옴",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:e28cd160861b61e9cee35cbbd442b4db4b4c3a8f78db4e7090ba4d9c666d9ed6\"/>\n</div>\n</div>\n</div>\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:982e1992f97c9afb56f87b2210f5311f8739ab841e258a63c05481d83af7f7d8\"/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "e28cd160861b61e9cee35cbbd442b4db4b4c3a8f78db4e7090ba4d9c666d9ed6",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wcc5395001_eaa7500c8e59a877a93a1b2abae6532e2a047ac5.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "982e1992f97c9afb56f87b2210f5311f8739ab841e258a63c05481d83af7f7d8",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sd2908f002_cd206a8e1e16cda4d4f30aa5593327f8b956c8ad.webp",
-          "mime": "image/webp"
         }
       ]
     },
@@ -237,6 +219,24 @@
         {
           "digest": "68f10acde152ccbff08b77aff2f16c84075d029a31654d1b6c290fa4e500f3cb",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s69ff09003_f08c3982ddc9945e7f5da1b6b1b2918165a01525.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430217",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430217",
+      "title": "윤하누난 소속사 복이 없나바",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:82dcae764e35b5b64291bf936ade7a26fef46392e9e01a9b2e98bb14bc2ab2c8\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:cbbe9d52e99d176fc8bcc7bcf9b29a83fb37a6e2e102b8479ab32ef71ee9f06e\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t근데 C9면 좀 체급있는 소속사 아님?\n\n</p>\n",
+      "images": [
+        {
+          "digest": "82dcae764e35b5b64291bf936ade7a26fef46392e9e01a9b2e98bb14bc2ab2c8",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w3c8ea5001_9072fa2f3ab82818ceeec0a75b2c47b74299a3e6.png",
+          "mime": "image/png"
+        },
+        {
+          "digest": "cbbe9d52e99d176fc8bcc7bcf9b29a83fb37a6e2e102b8479ab32ef71ee9f06e",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w3c8ea5002_ac1d32cff1b75ef2f6b1b39956568ee511639f9b.jpg",
           "mime": "image/jpeg"
         }
       ]
