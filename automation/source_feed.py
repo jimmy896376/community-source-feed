@@ -150,6 +150,13 @@ def article(raw, url, download=None):
         if any(domain in str(text).lower() for domain in ("fmkorea.com", "humoruniv.com", "todayhumor.co.kr")):
             return None
     images, seen = [], set()
+    for image in body.select("img"):
+        src = image.get("img_file_url") or image.get("data-original") or image.get("data-src") or image.get("src")
+        if src:
+            image_url = urljoin(url, src)
+            if (urlsplit(image_url).hostname in ("m.humoruniv.com", "web.humoruniv.com")
+                    and re.fullmatch(r"/images/loading_bar\d*\.gif", urlsplit(image_url).path, re.I)):
+                image.decompose()
     body_images = body.select("img")
     topical_art = re.search(r"겨울사람|그림|일러스트|캐릭터|팬아트|작화|스케치", title.get_text(" ", strip=True))
     for index, image in enumerate(body_images):
