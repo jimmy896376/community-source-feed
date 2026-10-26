@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:23:13.281483+00:00",
+  "generated_at": "2026-10-26T11:23:33.388724+00:00",
   "posts": [
     {
       "source_id": "hu:1430056",
@@ -79,19 +79,6 @@
       ]
     },
     {
-      "source_id": "hu:1430160",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430160",
-      "title": "홍콩스벅 근황",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:e59f49af05a1fdbcb041ece7c98d6851adb21038b1f095820cd8becd99574095\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t김치는 명명백백한 한국꺼라고 홍보해주는중\n\n</p>\n",
-      "images": [
-        {
-          "digest": "e59f49af05a1fdbcb041ece7c98d6851adb21038b1f095820cd8becd99574095",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w465ae6001_cdec9a768aeae9cc2db5b95da688bc71b066a510.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1430170",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430170",
       "title": "야스하다 자존심 상한 여자.jpg",
@@ -110,24 +97,6 @@
         {
           "digest": "b70b5bfc3e14e7fde94fb960c0d90ac3c5e8302bd03bf3de2f6dc08bd8b2fdcc",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s266513002_8307a9b0afb5dd70898859ec0e2f112afd1a5b26.webp",
-          "mime": "image/webp"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1430164",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430164",
-      "title": "순진한 우즈벡 소녀에게 몹쓸짓을 하고 떠나간 한국인",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n<img alt=\"\" src=\"asset:e86513fa64b9e1abc09950152b0921c9d96d6af8cc4b93858c1ee32c75780266\"/>\n</span> <img alt=\"\" src=\"asset:929182af843b5461d14a9aa62bdd3fd3299bef4ff763c81d295376dca57df234\"/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "e86513fa64b9e1abc09950152b0921c9d96d6af8cc4b93858c1ee32c75780266",
-          "source_url": "https://m.humoruniv.com/images/loading_bar2.gif",
-          "mime": "image/gif"
-        },
-        {
-          "digest": "929182af843b5461d14a9aa62bdd3fd3299bef4ff763c81d295376dca57df234",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sadff50001_eaa0e2081098f38d7860219d06001c40e70adc8b.webp",
           "mime": "image/webp"
         }
       ]
@@ -156,14 +125,19 @@
       ]
     },
     {
-      "source_id": "hu:1430163",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430163",
-      "title": "개짜치는 결혼공지",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:8287b4ccf526f1fafd72ae0d793f80f9806b9f3238c1f0e5b8478460df9b3bfb\"/>\n</div>\n</div>\n</div>\n<p>\n\n\tㆍ\n\n</p>\n",
+      "source_id": "hu:1430164",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430164",
+      "title": "순진한 우즈벡 소녀에게 몹쓸짓을 하고 떠나간 한국인",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n<img alt=\"\" src=\"asset:e86513fa64b9e1abc09950152b0921c9d96d6af8cc4b93858c1ee32c75780266\"/>\n</span> <img alt=\"\" src=\"asset:929182af843b5461d14a9aa62bdd3fd3299bef4ff763c81d295376dca57df234\"/></div></div>\n<p></p>\n",
       "images": [
         {
-          "digest": "8287b4ccf526f1fafd72ae0d793f80f9806b9f3238c1f0e5b8478460df9b3bfb",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/hu_1793002225_8180902405.webp",
+          "digest": "e86513fa64b9e1abc09950152b0921c9d96d6af8cc4b93858c1ee32c75780266",
+          "source_url": "https://m.humoruniv.com/images/loading_bar2.gif",
+          "mime": "image/gif"
+        },
+        {
+          "digest": "929182af843b5461d14a9aa62bdd3fd3299bef4ff763c81d295376dca57df234",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sadff50001_eaa0e2081098f38d7860219d06001c40e70adc8b.webp",
           "mime": "image/webp"
         }
       ]
@@ -177,6 +151,42 @@
         {
           "digest": "d62e102eda96d698533b6b4869418cf5d233fb0507a615aec444c8c03594465f",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s3710c3002_f0fc67cc49d66b90008fbe24db661b0d1f506926.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430169",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430169",
+      "title": "사람 목에 매달리는 장난하면 안되는 이유",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:e59dd934053cf9430d203fdaccf50ccadb124779f1518c9a1515b4cd509b6b9a\"/>\n</div>\n</div>\n</div>\n<div>\n<img alt=\"\" src=\"asset:c9df071a480927591e9acc192f010acebe4a3d8898fa9e2bf9cdbce8bb933db3\"/>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:04f0c29999630428574be3ed355d772faee36d15451d2e36f0deeee6bea0f3e9\"/>\n</div>\n</div>\n</div>\n<p>\n<br/>\n<br/>\nㄷㄷㄷ 경동맥이 눌려서<br/>\n서서히 숨막혀서 기절하는거래 ㄷㄷㄷ\n\n</p>\n",
+      "images": [
+        {
+          "digest": "e59dd934053cf9430d203fdaccf50ccadb124779f1518c9a1515b4cd509b6b9a",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w6a152e001_c720db38ded927850f2a7014aaf5ac4491023742.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "c9df071a480927591e9acc192f010acebe4a3d8898fa9e2bf9cdbce8bb933db3",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w6a152e002_81a6e41bb7d6cc7233702e450dddae86850a2d6c.gif",
+          "mime": "image/gif"
+        },
+        {
+          "digest": "04f0c29999630428574be3ed355d772faee36d15451d2e36f0deeee6bea0f3e9",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w6a152e003_a11a92966a5242cf97d89f337a9a82dd257293ec.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430171",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430171",
+      "title": "결혼식 축가 섭외 비용표",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:c9f31f5bc966b26f8f4baf58eed220c745549d02dfcebf0daac77f0898fcc3e6\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "c9f31f5bc966b26f8f4baf58eed220c745549d02dfcebf0daac77f0898fcc3e6",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s3a2152002_d4409df8aee3ea784991c808bd9c7514618cce8f.jpg",
           "mime": "image/jpeg"
         }
       ]
