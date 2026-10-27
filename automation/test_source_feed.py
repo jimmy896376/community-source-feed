@@ -43,5 +43,18 @@ class SourceFeedTests(unittest.TestCase):
             self.assertIsNone(source_feed.article(only_art, source, download))
 
 
+    def test_first_self_introduction_image_is_removed(self):
+        data = io.BytesIO()
+        Image.new("RGB", (20, 20), "red").save(data, format="PNG")
+        source = "https://m.humoruniv.com/board/read.html?table=pds&number=1430195"
+        raw = ('<h2><a>Story</a></h2><div id="wrap_copy">'
+               '<img alt="자기소개 사진" src="https://down.humoruniv.com/intro.png">'
+               '<img src="https://down.humoruniv.com/story.png"></div>').encode()
+        item = source_feed.article(raw, source, Mock(return_value=data.getvalue()))
+        self.assertEqual(len(item["images"]), 1)
+        self.assertEqual(item["body"].count("<img"), 1)
+        self.assertNotIn("자기소개", item["body"])
+
+
 if __name__ == "__main__":
     unittest.main()
