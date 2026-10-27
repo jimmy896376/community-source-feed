@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:52:03.736542+00:00",
+  "generated_at": "2026-10-27T16:53:28.311412+00:00",
   "posts": [
     {
       "source_id": "hu:1430222",
@@ -38,29 +38,6 @@
         {
           "digest": "7fede1b661b894ba4dcd20141c47304e71cc8c17fc030acae2916359d92a7cc1",
           "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w88c54f001_a71be43a34f7be029ff6a6cbd0f9a4cc8f1e15f4.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1430303",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430303",
-      "title": "사람 이름이 '으앙'인 만화.manhwa",
-      "body": "\n<div>\n<img alt=\"\" src=\"asset:35db436da6a3e4385d3440a80f40790accf81cd7c92e10a9c8b3e813b06eebca\"/>\n</div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:368b8e64b9403e8bbc38d02088a39f3ed2ede5e0abd58f1fb0661047a890c904\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:de533e9bc604b3f4a4d305b693be4cb4470cb88e8b3f9ca63eac5d23ba537108\"/>\n</div>\n</div>\n</div>\n<p>\n\n</p><div>실화 썰...</div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "35db436da6a3e4385d3440a80f40790accf81cd7c92e10a9c8b3e813b06eebca",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wd4da51001_f8ccbbcb16c7995d7076d051361f4a5b041551ad.gif",
-          "mime": "image/gif"
-        },
-        {
-          "digest": "368b8e64b9403e8bbc38d02088a39f3ed2ede5e0abd58f1fb0661047a890c904",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wd4da51002_a17b064d0e049d19dbbac561e86ee495898f7f9a.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "de533e9bc604b3f4a4d305b693be4cb4470cb88e8b3f9ca63eac5d23ba537108",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wd4da51003_73606cbdd779b0c42e081dc3470fa8c5af49ea65.jpg",
           "mime": "image/jpeg"
         }
       ]
@@ -120,19 +97,6 @@
       ]
     },
     {
-      "source_id": "hu:1430307",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430307",
-      "title": "베트남의 황근출",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:866c1d6de0a01375356b7c6f99444c524cbe17f8043838b49c7178414997df17\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "866c1d6de0a01375356b7c6f99444c524cbe17f8043838b49c7178414997df17",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s524716001_0ff9bf55e550be0173c18e5e9cab9a13554dc922.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1430314",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430314",
       "title": "잉크회사가 준 수건.jpg",
@@ -151,6 +115,19 @@
         {
           "digest": "2eee97d0979ca2065fd34584df6ffe0ec6a4975c451599200c07b008319b10ea",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s7b47af003_01cd3086df2a8e15da64c02c089e5eeb8b0178f3.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430307",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430307",
+      "title": "베트남의 황근출",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:866c1d6de0a01375356b7c6f99444c524cbe17f8043838b49c7178414997df17\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "866c1d6de0a01375356b7c6f99444c524cbe17f8043838b49c7178414997df17",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s524716001_0ff9bf55e550be0173c18e5e9cab9a13554dc922.jpg",
           "mime": "image/jpeg"
         }
       ]
@@ -193,6 +170,19 @@
           "digest": "702aa16636a8136bb7959c5537e0fb30422008102605a1aaaf68a3cedbfcfa11",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s02bf2a002_2006422340408921b96321ef547441dd764221ff.webp",
           "mime": "image/webp"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430321",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430321",
+      "title": "머리카락에 바세린을 바르면 안되는 이유",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:4b46463c4c714fbb7c424436e9add97a3913bae09b610f83fb1a2efbd438ae96\"/>\n</div>\n</div>\n</div></div><div>내가 이걸 자료로 올리는 이유는..</div><div>어제 염색하면서 염색약 피부에 뭍은 거 잘 지워지라고</div><div>괜히 얼굴 가생이마다 듬뿍 퍼발랐따가 조뙜기 때문이다...</div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "4b46463c4c714fbb7c424436e9add97a3913bae09b610f83fb1a2efbd438ae96",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s3df17b002_baf6600b2c3a0d9727e0f718620b8380dd35724e.jpg",
+          "mime": "image/jpeg"
         }
       ]
     }
