@@ -20,7 +20,8 @@ REFERENCE_ARTWORK = ((0x07170FB5E576361F, 0.64, 0.70),
 EXCLUDED_ARTWORK = ((0x0F3C18D1C336930F, 0.68, 0.73),
                     (0x0081C3C060200000, 1.47, 1.53),
                     (0xD8C190C1C5D57A12, 1.44, 1.50),
-                    (0x9C868C84C6D6C7EE, 0.75, 0.80))
+                    (0x9C868C84C6D6C7EE, 0.75, 0.80),
+                    (0x594D1D4E2E5D4F6C, 1.74, 1.82))
 
 class ActionRequired(Exception):
     pass
