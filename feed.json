@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:51:24.848873+00:00",
+  "generated_at": "2026-10-27T18:49:22.786238+00:00",
   "posts": [
     {
       "source_id": "hu:1430222",
@@ -84,6 +84,19 @@
       ]
     },
     {
+      "source_id": "hu:1430322",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430322",
+      "title": "대한민국 실패한 레전드사건",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:1bd177a30e76c7de2815e0b6f43c29bdabdc2cf6484e6a0c18feda11abbdaded\"/></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "1bd177a30e76c7de2815e0b6f43c29bdabdc2cf6484e6a0c18feda11abbdaded",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s6e2adf001_23da64e5f57bd404d865feadfad836b74308894d.webp",
+          "mime": "image/webp"
+        }
+      ]
+    },
+    {
       "source_id": "hu:1430317",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430317",
       "title": "요즘 학생들 발명품 수준.jpg",
@@ -121,19 +134,6 @@
           "digest": "1cd57b53f9fb35abcf9161ed68e22fc9303b91b5efa0e1ec54c4a28d8b66faf6",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s2699e7003_7db29de5933f5217561aab07b948766bbb9fb95d.jpg",
           "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1430322",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430322",
-      "title": "대한민국 실패한 레전드사건",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:1bd177a30e76c7de2815e0b6f43c29bdabdc2cf6484e6a0c18feda11abbdaded\"/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "1bd177a30e76c7de2815e0b6f43c29bdabdc2cf6484e6a0c18feda11abbdaded",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s6e2adf001_23da64e5f57bd404d865feadfad836b74308894d.webp",
-          "mime": "image/webp"
         }
       ]
     },
