@@ -183,11 +183,13 @@ def article(raw, url, download=None):
                            " ".join(image.get("class", [])), image.get("id") or "",
                            " ".join(image.parent.get("class", [])), image.parent.get("id") or ""))
         marker += " " + urlsplit(image_url).path.rsplit("/", 1)[-1]
-        marked_signature = re.search(r"(?:^|[-_./ ])(?:avatar|profile|signature|author|watermark|프로필|서명)(?:$|[-_./ ])", marker, re.I)
-        if is_excluded_artwork(data):
+        marked_signature = re.search(
+            r"(?:^|[-_./ ])(?:avatar|profile|signature|author|watermark|self[-_ ]?intro|introduction|about[-_ ]?me)(?:$|[-_./ ])|프로필|자기소개|작성자|작가소개|서명",
+            marker, re.I)
+        if is_excluded_artwork(data) or marked_signature:
             image.decompose()
             continue
-        if extra_image and not topical_art and (marked_signature or is_reference_artwork(data)):
+        if extra_image and not topical_art and is_reference_artwork(data):
             image.decompose()
             continue
         if (len(body_images) > 1 and index in (0, len(body_images) - 1)
