@@ -17,6 +17,10 @@ from PIL import Image, ImageOps
 LISTS = ["https://m.humoruniv.com/board/list.html?table=pds"]
 REFERENCE_ARTWORK = ((0x07170FB5E576361F, 0.64, 0.70),
                      (0x000C76772D9A6401, 0.98, 1.02))
+EXCLUDED_ARTWORK = ((0x0F3C18D1C336930F, 0.68, 0.73),
+                    (0x0081C3C060200000, 1.47, 1.53),
+                    (0xD8C190C1C5D57A12, 1.44, 1.50),
+                    (0x9C868C84C6D6C7EE, 0.75, 0.80))
 
 class ActionRequired(Exception):
     pass
@@ -97,7 +101,7 @@ def candidates(raw, listing):
             urls.setdefault(key, url)
     return list(urls.items())[:30]
 
-def is_reference_artwork(data):
+def matches_artwork(data, references):
     try:
         with Image.open(io.BytesIO(data)) as picture:
             width, height = picture.size
@@ -107,7 +111,15 @@ def is_reference_artwork(data):
     fingerprint = sum((pixels[y * 9 + x] > pixels[y * 9 + x + 1]) << (y * 8 + x)
                       for y in range(8) for x in range(8))
     return any(low <= width / height <= high and bin(fingerprint ^ reference).count("1") <= 5
-               for reference, low, high in REFERENCE_ARTWORK)
+               for reference, low, high in references)
+
+
+def is_reference_artwork(data):
+    return matches_artwork(data, REFERENCE_ARTWORK)
+
+
+def is_excluded_artwork(data):
+    return matches_artwork(data, EXCLUDED_ARTWORK)
 
 def looks_like_detached_artwork(data):
     """Flag a paper-backed edge illustration; callers skip the whole candidate."""
@@ -171,6 +183,9 @@ def article(raw, url, download=None):
                            " ".join(image.parent.get("class", [])), image.parent.get("id") or ""))
         marker += " " + urlsplit(image_url).path.rsplit("/", 1)[-1]
         marked_signature = re.search(r"(?:^|[-_./ ])(?:avatar|profile|signature|author|watermark|프로필|서명)(?:$|[-_./ ])", marker, re.I)
+        if is_excluded_artwork(data):
+            image.decompose()
+            continue
         if extra_image and not topical_art and (marked_signature or is_reference_artwork(data)):
             image.decompose()
             continue
