@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T19:52:51.172924+00:00",
+  "generated_at": "2026-10-28T20:48:04.072305+00:00",
   "posts": [
     {
       "source_id": "hu:1430343",
@@ -21,19 +21,6 @@
           "digest": "7866e9405668a7e710e885ff5098ef0f1175c41a64915866dc11f6533b26a827",
           "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/hu_1793149009_6227752436.webp",
           "mime": "image/webp"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1430329",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1430329&from=best",
-      "title": "고백 거절 반응.jpg",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:9a2d7f9853fda6a71d01086f7f0c1da2c313a72c2a5b090bea9c84ba798d043e\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "9a2d7f9853fda6a71d01086f7f0c1da2c313a72c2a5b090bea9c84ba798d043e",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sa40718002_4c0db2a8f33d2744e9b1373b83ffc91d0b265133.jpg",
-          "mime": "image/jpeg"
         }
       ]
     },
@@ -202,6 +189,24 @@
         {
           "digest": "2269eda05209bc9e64dadce26fa4a261eda12e9df759b00edbf812e2132df065",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sbad1e4002_3fda7239083f2df08b31e2e744a586cf822fa1c5.webp",
+          "mime": "image/webp"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430440",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430440",
+      "title": "인천 흉기난동 피해자 어머니의 글",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:f6ad6081cbddedb3dcd6cc6a4a1f156618ab90537c53aad30e996b66e864b23a\"/>\n</div>\n</div>\n</div></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:eb0975878f1e3bcc8e811d8b3bbf0bca8e34b7b55a012b99315c3cf3de91e02b\"/></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "f6ad6081cbddedb3dcd6cc6a4a1f156618ab90537c53aad30e996b66e864b23a",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s527f73001_077d2448ae6aeaaf7a252f870cb2e5c3d96c673c.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "eb0975878f1e3bcc8e811d8b3bbf0bca8e34b7b55a012b99315c3cf3de91e02b",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s527f73002_215639cb858860c97fbd487dadcc68fe006f0c78.webp",
           "mime": "image/webp"
         }
       ]
