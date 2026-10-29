@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:59:32.858574+00:00",
+  "generated_at": "2026-10-29T16:59:03.430393+00:00",
   "posts": [
     {
       "source_id": "hu:1430500",
@@ -52,24 +52,6 @@
           "digest": "96a996d69e3d5615e7e3dc144537e2318164e3b7e06d8e990e243741875af494",
           "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w391511003_51eefe03bece27994a3af5152d8f77e41469be2e.png",
           "mime": "image/png"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1430550",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430550",
-      "title": "9년지기 친구랑 자버렸어...",
-      "body": "\n<p>\n\n</p><div><p>\n</p><div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:701b864d4a3a4f429d760cddf5c8f0795f54e41c91dfdf624515d9026dd79d7c\"/>\n</div>\n</div>\n</div><p></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:2b1277adcf5ccb9f15af2490a38ee1d1c5929999c7247519dd95ebc3674ed8f7\"/></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "701b864d4a3a4f429d760cddf5c8f0795f54e41c91dfdf624515d9026dd79d7c",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e85c3f0001_2e3c96e4b24f15fa2c4f47a9f2575293958e2024.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "2b1277adcf5ccb9f15af2490a38ee1d1c5929999c7247519dd95ebc3674ed8f7",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e85c3f0002_239acddc658ffd64fcd1121677de5f4fde781c1c.webp",
-          "mime": "image/webp"
         }
       ]
     },
@@ -177,6 +159,37 @@
           "digest": "b74ec43b38d23b99349c867216b391c617b1f33fc049df7e9eff27a58e83db52",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s679ddc002_8d8ddc33e456d2ea227d912e679daa6a21770cd9.jpg",
           "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430570",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430570",
+      "title": "인도 경찰이 줘패고 그냥 보내는 이유.jpg",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:d31cfbd753daba371ce6c0cca43b336789a37c92fecf626df4319e81c2456a0a\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:878f0b6de44088a1b43cd2470aa58299f2b14229023e53215be0eb5e523468ba\"/></div><div><br/></div><div>그게 빠름</div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "d31cfbd753daba371ce6c0cca43b336789a37c92fecf626df4319e81c2456a0a",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sb8e287001_0e055c0f7616523a6f4da7701930c303deb2bd8c.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "878f0b6de44088a1b43cd2470aa58299f2b14229023e53215be0eb5e523468ba",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sb8e287002_bc88a80fb8022bec8e9c1659ec17eff0b80ffe92.webp",
+          "mime": "image/webp"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430571",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430571",
+      "title": "요즘 mz 강타 황치즈의 정체",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:113b17ec1174e9c0275412f22821a53703bf26eef6e508892a52bc850aa7e3ed\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "113b17ec1174e9c0275412f22821a53703bf26eef6e508892a52bc850aa7e3ed",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sf2bb1a002_d98b5b39cf88191fb5e46f66fd7b46db7857088e.png",
+          "mime": "image/png"
         }
       ]
     }
