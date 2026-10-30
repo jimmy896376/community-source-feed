@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:05:34.106889+00:00",
+  "generated_at": "2026-10-30T15:01:46.117647+00:00",
   "posts": [
     {
       "source_id": "hu:1430593",
@@ -28,24 +28,6 @@
       ]
     },
     {
-      "source_id": "hu:1430673",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430673",
-      "title": "한 외국인이 매긴 한국 프렌차이즈 버거 티어",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:98bae72d560507fd3bc11f39befdd29d952e958443231df319e90f4dad496970\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:2b01c16d1176c3407d5753d54e24dc99b98a9a4e7dc0afde38aa812f3fab3527\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t그냥 치킨버거 좋아 청년\n\n</p>\n",
-      "images": [
-        {
-          "digest": "98bae72d560507fd3bc11f39befdd29d952e958443231df319e90f4dad496970",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/hu_1793360030_5904813624.webp",
-          "mime": "image/webp"
-        },
-        {
-          "digest": "2b01c16d1176c3407d5753d54e24dc99b98a9a4e7dc0afde38aa812f3fab3527",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/hu_1793360030_2400699081.webp",
-          "mime": "image/webp"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1430677",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430677",
       "title": "현재 미국에서 욕 먹고 있는 레슬링 선수",
@@ -64,29 +46,6 @@
         {
           "digest": "18ddeadbe13771360d03f54316071a126b4a05cba80ccb1db850fff10ef52698",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sf0de3b002_749ef24c044af1019dea12ab852caa2dcf92f4cf.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1430674",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430674",
-      "title": "인터넷에서나 보던일이.jpg",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:32c02556615fe33269351f918c2a11490e289a1409024e5b53adce18dc4eb271\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:8970c58772a8d4470ce60d28950c0820a8a23ec9e72f62542e42a434c5264372\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:5f020adb08b15957262f0f453e399943f539a9beb867bd02d8654c2fed4eb02e\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "32c02556615fe33269351f918c2a11490e289a1409024e5b53adce18dc4eb271",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sae18eb001_87243b35f5b630b90d4d583e713576b6519e7e90.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "8970c58772a8d4470ce60d28950c0820a8a23ec9e72f62542e42a434c5264372",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sae18eb002_3c959c2642df1d43eb4fd42b4f5271b87b182913.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "5f020adb08b15957262f0f453e399943f539a9beb867bd02d8654c2fed4eb02e",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sae18eb003_f71453de1a7c259f34105144cd38dcb5bf60bf6b.jpg",
           "mime": "image/jpeg"
         }
       ]
@@ -183,25 +142,33 @@
       ]
     },
     {
-      "source_id": "hu:1430675",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430675",
-      "title": "인생의 반 이상을 빚 갚는데 쓴 동생.jpg",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:40688382ef43acf217d238ddf7006109f8bad97f6eb68bc977a4ce13dfa08372\"/>\n</div>\n</div>\n</div></div><div><br/></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:e39e82f0f82dbd465bb98003d310bb415d661bdba575793e4d20de2ff78ba243\"/>\n</div>\n</div>\n</div></div><div><br/></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:e1047b27da237a3aaa4bd7e3332278a3e48eedd502944b37e40c5a666ed291f8\"/>\n</div>\n</div>\n</div></div><div><br/></div></div>\n<p></p>\n",
+      "source_id": "hu:1430685",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430685",
+      "title": "강아지야 그동안 고마웠어",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:211a05d2ec8e0fa03b895f7c6b2aacc37c18e491874cddce993a3ea5c337ea68\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:d76343741257c448c7f269a1e069daf3b6034fdd70b16fdf5053783c227296ab\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t우리집 강아지가 18살 오늘 하늘의 별이 되었음...<br/>\n편안히 쉬거라<br/>\n<br/>\n마음이 아프구나\n\n</p>\n",
       "images": [
         {
-          "digest": "40688382ef43acf217d238ddf7006109f8bad97f6eb68bc977a4ce13dfa08372",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s243e3a001_0964571945bc998b7b188431be4a12119c5fbce2.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "e39e82f0f82dbd465bb98003d310bb415d661bdba575793e4d20de2ff78ba243",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s243e3a002_5122eaf61d5d4805e79c7f52c1e37d4495201c5e.jpg",
+          "digest": "211a05d2ec8e0fa03b895f7c6b2aacc37c18e491874cddce993a3ea5c337ea68",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w123535001_9e9e71eefacbd8b7a7c10bafb2b45af9d54cc399.jpg",
           "mime": "image/jpeg"
         },
         {
-          "digest": "e1047b27da237a3aaa4bd7e3332278a3e48eedd502944b37e40c5a666ed291f8",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s243e3a003_8fd0e00c11d8c483e8d60bcd02dccaed87f925dd.jpg",
+          "digest": "d76343741257c448c7f269a1e069daf3b6034fdd70b16fdf5053783c227296ab",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w123535002_61cad98e4ca08f1fd10270f897eccd41fe31f5b9.jpg",
           "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430686",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430686",
+      "title": "규칙은 간단해 동시에 숫자를 내서 승부야",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:877d5c8e74b1bfcf09fbc1916762c951126774a549475f12fa91e2f25058bde3\"/></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "877d5c8e74b1bfcf09fbc1916762c951126774a549475f12fa91e2f25058bde3",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s941cbf001_1a9729f8a7a49f380fd9768f9e144a4827dca954.webp",
+          "mime": "image/webp"
         }
       ]
     },
@@ -229,20 +196,38 @@
       ]
     },
     {
-      "source_id": "hu:1430685",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430685",
-      "title": "강아지야 그동안 고마웠어",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:211a05d2ec8e0fa03b895f7c6b2aacc37c18e491874cddce993a3ea5c337ea68\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:d76343741257c448c7f269a1e069daf3b6034fdd70b16fdf5053783c227296ab\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t우리집 강아지가 18살 오늘 하늘의 별이 되었음...<br/>\n편안히 쉬거라<br/>\n<br/>\n마음이 아프구나\n\n</p>\n",
+      "source_id": "hu:1430684",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430684",
+      "title": "사장님 장사하실줄 아시넼ㅋㅋㅋㅋ",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:9b5e5a93b8205dcc91ac83551186af79a4c798aee635162d01789be955d89ebc\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:abde14a8deb484eb61cad3a1bdc340cab13975a6ac2875dcf525f98bbedef747\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t리뷰 쓸 맛이 난다\n\n</p>\n",
       "images": [
         {
-          "digest": "211a05d2ec8e0fa03b895f7c6b2aacc37c18e491874cddce993a3ea5c337ea68",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w123535001_9e9e71eefacbd8b7a7c10bafb2b45af9d54cc399.jpg",
+          "digest": "9b5e5a93b8205dcc91ac83551186af79a4c798aee635162d01789be955d89ebc",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w8234df001_41898f9088c91d82e93a73d48c3cbcf0e7894d7c.jpg",
           "mime": "image/jpeg"
         },
         {
-          "digest": "d76343741257c448c7f269a1e069daf3b6034fdd70b16fdf5053783c227296ab",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w123535002_61cad98e4ca08f1fd10270f897eccd41fe31f5b9.jpg",
+          "digest": "abde14a8deb484eb61cad3a1bdc340cab13975a6ac2875dcf525f98bbedef747",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w8234df002_1bcbaece97aa6f65c7b7471266d2328dfb459afa.jpg",
           "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430692",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430692",
+      "title": "전설의 시작",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:359f5f6bb78845fad4ebd3896ba6957c24fb0bef4be336db900d6538fd8541a2\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:e8c3a650fbe3d0f564c6aeb7466cc765d06220910840a2db427bb198579b4927\"/>\n</div>\n</div>\n</div>\n<p>\n\n\tㅋㅋㅋ\n\n</p>\n",
+      "images": [
+        {
+          "digest": "359f5f6bb78845fad4ebd3896ba6957c24fb0bef4be336db900d6538fd8541a2",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/hu_1793368555_9204141452.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "e8c3a650fbe3d0f564c6aeb7466cc765d06220910840a2db427bb198579b4927",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/hu_1793368555_2161198045.webp",
+          "mime": "image/webp"
         }
       ]
     }
