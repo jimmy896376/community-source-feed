@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:42:49.965975+00:00",
+  "generated_at": "2026-11-01T17:39:14.419622+00:00",
   "posts": [
     {
       "source_id": "hu:1430856",
@@ -90,34 +90,6 @@
       ]
     },
     {
-      "source_id": "hu:1430924",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430924",
-      "title": "할로윈에 아이들에게 골드바를 나눠주는 중동 부자.jpg",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:0bc8c0c0ef10c6f3a9862fc448a1ef572fc1e21afe8889d59fcb49f0b76412ec\"/></div><div><br/></div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:21348412dead96b71ffb748276a1c1a8eaab0ac2b00c8e56f6e73293b6043c10\"/>\n</div>\n</div>\n</div></div><div><br/></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:ddfcbf51350a8a8fe2a1edcc960c4b2c7f4ba33432c80c0c6e29a06edb0c55b1\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:d55fe0f5d2c6f70ab39210641336c38c589cbe6982727c6ab1fe312fdd837921\"/>\n</div>\n</div>\n</div></div><div><br/></div><div>할로윈에 아이들에게 골드바를 나눠주는 중동 부자 </div><div>코스프레를 한 사람</div><div><br/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "0bc8c0c0ef10c6f3a9862fc448a1ef572fc1e21afe8889d59fcb49f0b76412ec",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s8ca290001_defd5d92c0aa303170afbf778c80f9bc86d9beb5.webp",
-          "mime": "image/webp"
-        },
-        {
-          "digest": "21348412dead96b71ffb748276a1c1a8eaab0ac2b00c8e56f6e73293b6043c10",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s8ca290002_4f292c3742faf768616deadaa4b2c5bea4fd7c32.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "ddfcbf51350a8a8fe2a1edcc960c4b2c7f4ba33432c80c0c6e29a06edb0c55b1",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s8ca290003_4a4cbdb2ed3815abd7a4cd746a6e60a008619d93.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "d55fe0f5d2c6f70ab39210641336c38c589cbe6982727c6ab1fe312fdd837921",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s8ca290004_492f327c8cf6b7000d2f93e7ffe5028975008d9a.png",
-          "mime": "image/png"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1430926",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430926",
       "title": "한스짐머가 자신의 이름을 무단으로 도용해서 음악을 판 사람에게 내린 처벌.jpg",
@@ -158,6 +130,24 @@
           "digest": "6700224d4f5eb67ebbd4ad53773520b34aeaed4b2e90d2c89aa00bab310f8614",
           "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w5cb31e001_cf57a7412b37ee86bc1ea0531002a585483425b8.jpg",
           "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1430929",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430929",
+      "title": "옥상에서 바위를 던져?",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:908b4ec9dd1d38f74d9a7a82c770f225bb635f7d4d07360535c27f9a2a59bc47\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:d9f4bcf486efaeb016a05eff449a8590e682f6c0f1dcd8a9b1463edb6acd41fd\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t물리 이새끼...\n\n</p>\n",
+      "images": [
+        {
+          "digest": "908b4ec9dd1d38f74d9a7a82c770f225bb635f7d4d07360535c27f9a2a59bc47",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wdff11d001_c84e4911a780492108d77912e7fd8b31d370ae1c.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "d9f4bcf486efaeb016a05eff449a8590e682f6c0f1dcd8a9b1463edb6acd41fd",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/hu_1793541932_8681950127.webp",
+          "mime": "image/webp"
         }
       ]
     }
