@@ -1,3 +1,5 @@
-# Public community source feed
+# Public source feeds
 
-This repository collects approved public Humoruniv posts and publishes source metadata in `feed.json` once per hour. It contains no destination-site addresses or login information. The destination publisher and its state remain in a private repository.
+This repository collects approved public Humoruniv posts in `feed.json` and recent highlight links from Korean sports-rights-holder YouTube channels in `highlights.json`.
+
+The public collector stores source metadata only. It has no destination-site address, account, password, API key, or publishing code. Posting settings and the Korean-IP verification list stay in the private `nude-tv-free-board-automation` repository. A collected video is only a candidate; the private publisher must reject every video without a Korean playback verification entry.
