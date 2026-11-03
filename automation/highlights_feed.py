@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Collect public highlight links from Korean sports-rights-holder YouTube channels."""
+"""Collect major-match candidates from Korean sports-rights-holder YouTube channels."""
 import json
 import re
 import urllib.request
@@ -14,6 +14,23 @@ CHANNELS = {
 ATOM = "{http://www.w3.org/2005/Atom}"
 VIDEO_ID = re.compile(r"^[A-Za-z0-9_-]{11}$")
 HIGHLIGHT = re.compile(r"하이라이트|highlights?", re.I)
+# Curated major-club filter. Candidate must name one club in its title.
+MAJOR_CLUBS = (
+    "바이에른 뮌헨", "바이에른", "Bayern Munich",
+    "레알 마드리드", "Real Madrid", "바르셀로나", "FC Barcelona",
+    "아틀레티코 마드리드", "Atletico Madrid",
+    "파리 생제르맹", "파리생제르맹", "PSG",
+    "맨체스터 시티", "Manchester City", "맨체스터 유나이티드", "Manchester United",
+    "리버풀", "Liverpool", "아스널", "Arsenal", "첼시", "Chelsea",
+    "토트넘", "Tottenham", "유벤투스", "Juventus",
+    "인터 밀란", "인터밀란", "Inter Milan", "AC 밀란", "AC Milan",
+    "나폴리", "Napoli",
+)
+MAJOR_MATCH = re.compile("|".join(re.escape(name) for name in MAJOR_CLUBS), re.I)
+
+
+def is_major_highlight(title):
+    return bool(HIGHLIGHT.search(title) and MAJOR_MATCH.search(title))
 
 
 def collect():
@@ -27,7 +44,7 @@ def collect():
             raw_id = entry.findtext("{http://www.youtube.com/xml/schemas/2015}videoId", "")
             title = entry.findtext(ATOM + "title", "").strip()
             published = entry.findtext(ATOM + "published", "")
-            if not VIDEO_ID.fullmatch(raw_id) or not HIGHLIGHT.search(title):
+            if not VIDEO_ID.fullmatch(raw_id) or not is_major_highlight(title):
                 continue
             videos[raw_id] = {
                 "video_id": raw_id,
