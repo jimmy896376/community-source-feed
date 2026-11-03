@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Collect public highlight links from Korean sports-rights-holder YouTube channels."""
+"""Collect major-match candidates from Korean sports-rights-holder YouTube channels."""
 import json
 import re
 import urllib.request
@@ -14,6 +14,33 @@ CHANNELS = {
 ATOM = "{http://www.w3.org/2005/Atom}"
 VIDEO_ID = re.compile(r"^[A-Za-z0-9_-]{11}$")
 HIGHLIGHT = re.compile(r"하이라이트|highlights?", re.I)
+# Curated popular teams. Candidate title must name at least one listed team.
+MAJOR_TEAMS = (
+    # Football
+    "바이에른 뮌헨", "바이에른", "Bayern Munich",
+    "레알 마드리드", "Real Madrid", "바르셀로나", "FC Barcelona",
+    "아틀레티코 마드리드", "Atletico Madrid",
+    "파리 생제르맹", "파리생제르맹", "PSG",
+    "맨체스터 시티", "Manchester City", "맨체스터 유나이티드", "Manchester United",
+    "리버풀", "Liverpool", "아스널", "Arsenal", "첼시", "Chelsea",
+    "토트넘", "Tottenham", "유벤투스", "Juventus",
+    "인터 밀란", "인터밀란", "Inter Milan", "AC 밀란", "AC Milan",
+    "나폴리", "Napoli",
+    # Baseball
+    "KIA 타이거즈", "KIA", "삼성 라이온즈", "삼성", "LG 트윈스", "두산 베어스",
+    "롯데 자이언츠", "한화 이글스",
+    # Basketball
+    "서울 SK 나이츠", "SK 나이츠", "부산 KCC", "KCC 이지스", "수원 KT",
+    "창원 LG 세이커스", "원주 DB 프로미", "안양 정관장",
+    # Volleyball
+    "대한항공 점보스", "현대캐피탈 스카이워커스", "OK저축은행 읏맨",
+    "흥국생명 핑크스파이더스", "현대건설 힐스테이트",
+)
+MAJOR_MATCH = re.compile("|".join(re.escape(name) for name in MAJOR_TEAMS), re.I)
+
+
+def is_major_highlight(title):
+    return bool(HIGHLIGHT.search(title) and MAJOR_MATCH.search(title))
 
 
 def collect():
@@ -27,7 +54,7 @@ def collect():
             raw_id = entry.findtext("{http://www.youtube.com/xml/schemas/2015}videoId", "")
             title = entry.findtext(ATOM + "title", "").strip()
             published = entry.findtext(ATOM + "published", "")
-            if not VIDEO_ID.fullmatch(raw_id) or not HIGHLIGHT.search(title):
+            if not VIDEO_ID.fullmatch(raw_id) or not is_major_highlight(title):
                 continue
             videos[raw_id] = {
                 "video_id": raw_id,
