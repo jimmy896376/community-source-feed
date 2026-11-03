@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T21:13:26.226516+00:00",
+  "generated_at": "2026-11-03T21:51:06.644558+00:00",
   "videos": [
     {
       "video_id": "GB6RwChihfs",
@@ -74,14 +74,6 @@
       "url": "https://www.youtube.com/watch?v=Bi7GjCuSsKY"
     },
     {
-      "video_id": "wCjTikWeEBE",
-      "title": "HEAT at LAKERS | FULL GAME HIGHLIGHTS | November 2, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-03T06:09:34+00:00",
-      "url": "https://www.youtube.com/watch?v=wCjTikWeEBE"
-    },
-    {
       "video_id": "unLs3DcfWGo",
       "title": "[여자프로농구] 삼성생명 vs 하나은행ㅣ5분 하이라이트 (11.02)",
       "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
@@ -104,14 +96,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-01T05:00:11+00:00",
       "url": "https://www.youtube.com/watch?v=Ktfh_YygX0k"
-    },
-    {
-      "video_id": "kvc2sh6SWdA",
-      "title": "[26/27 세리에A] 9R 제노아 vs 유벤투스 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-10-29T05:00:30+00:00",
-      "url": "https://www.youtube.com/watch?v=kvc2sh6SWdA"
     }
   ]
 }
