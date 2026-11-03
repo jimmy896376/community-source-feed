@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Collect major-match candidates from Korean sports-rights-holder YouTube channels."""
+"""Collect major-match candidates from official sports-rights-holder YouTube channels."""
 import json
 import re
 import urllib.request
@@ -10,11 +10,14 @@ from pathlib import Path
 CHANNELS = {
     "UCnBht7BrOx-A328KFXgysqQ": "쿠팡플레이 스포츠",
     "UCtm_QoN2SIxwCE-59shX7Qg": "SPOTV",
+    "UCWJ2lWNubArHWmf3FIHbfcQ": "NBA",
+    "UCoVz66yWHzVsXAFG8WhJK9g": "KBO",
 }
 ATOM = "{http://www.w3.org/2005/Atom}"
 VIDEO_ID = re.compile(r"^[A-Za-z0-9_-]{11}$")
 HIGHLIGHT = re.compile(r"하이라이트|highlights?", re.I)
-# Curated popular teams. Candidate title must name at least one listed team.
+MAJOR_EVENT = re.compile(r"한국시리즈|Korean Series|NBA (?:Finals|Cup|Playoffs|Postseason)", re.I)
+# Curated popular teams. Candidate title must name one unless it is a major final/tournament.
 MAJOR_TEAMS = (
     # Football
     "바이에른 뮌헨", "바이에른", "Bayern Munich",
@@ -28,10 +31,13 @@ MAJOR_TEAMS = (
     "나폴리", "Napoli",
     # Baseball
     "KIA 타이거즈", "KIA", "삼성 라이온즈", "삼성", "LG 트윈스", "두산 베어스",
-    "롯데 자이언츠", "한화 이글스",
+    "롯데 자이언츠", "한화 이글스", "KT 위즈", "KT위즈", "KT Wiz",
     # Basketball
     "서울 SK 나이츠", "SK 나이츠", "부산 KCC", "KCC 이지스", "수원 KT",
     "창원 LG 세이커스", "원주 DB 프로미", "안양 정관장",
+    "Lakers", "Warriors", "Celtics", "Knicks", "Bulls", "Spurs",
+    "Mavericks", "Nuggets", "76ers", "Clippers", "Heat", "Suns",
+    "Cavaliers", "Thunder", "Rockets",
     # Volleyball
     "대한항공 점보스", "현대캐피탈 스카이워커스", "OK저축은행 읏맨",
     "흥국생명 핑크스파이더스", "현대건설 힐스테이트",
@@ -40,7 +46,7 @@ MAJOR_MATCH = re.compile("|".join(re.escape(name) for name in MAJOR_TEAMS), re.I
 
 
 def is_major_highlight(title):
-    return bool(HIGHLIGHT.search(title) and MAJOR_MATCH.search(title))
+    return bool(HIGHLIGHT.search(title) and (MAJOR_MATCH.search(title) or MAJOR_EVENT.search(title)))
 
 
 def collect():
