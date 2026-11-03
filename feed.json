@@ -1,29 +1,6 @@
 {
-  "generated_at": "2026-11-03T17:01:10.494843+00:00",
+  "generated_at": "2026-11-03T17:55:45.830807+00:00",
   "posts": [
-    {
-      "source_id": "hu:1431064",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431064&from=best",
-      "title": "싱글벙글 김정은 갈아 마시자 - 해병대 장교 징계 최신 근황",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:77ed992db91715548a48b1773c4e38b491cae1294ae6b1476caadcbd7b5c4ed1\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:b9acfac0a8710d07ff2b3d4943c2ac91f2dc3fd4a7cc7e4fbbdd02881eb3c8db\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:ef36a2ec8f4cb24b8bec701e45f30a8a6d207f8af537217968c6a8696915d07b\"/></div><div><br/></div><div><br/></div><div>1.애초에 구라였음</div><div><br/></div><div>2.해당 장교는 오히려 훈련장 내부를 촬영함 （이게 더 간첩 아님?）</div><div><br/></div><div>3.ㅍㅋ가 ㅍㅋ함</div><div><br/></div><div>어차피 진실은 중요하지 않다</div><div><br/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "77ed992db91715548a48b1773c4e38b491cae1294ae6b1476caadcbd7b5c4ed1",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s85f9bb001_256b1ee5595b062b778d88e4cc87bdc348c5776c.webp",
-          "mime": "image/webp"
-        },
-        {
-          "digest": "b9acfac0a8710d07ff2b3d4943c2ac91f2dc3fd4a7cc7e4fbbdd02881eb3c8db",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s85f9bb002_c8c5276d958207418f0c6a854947f63a4a779187.webp",
-          "mime": "image/webp"
-        },
-        {
-          "digest": "ef36a2ec8f4cb24b8bec701e45f30a8a6d207f8af537217968c6a8696915d07b",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s85f9bb003_6a907e4752068dd8b8d06856e656f7488be620b0.webp",
-          "mime": "image/webp"
-        }
-      ]
-    },
     {
       "source_id": "hu:1431096",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431096&from=best",
@@ -38,19 +15,6 @@
       ]
     },
     {
-      "source_id": "hu:1431111",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431111&from=best",
-      "title": "남자가 돈이 없는건 용서가 된다는 일본여자",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:d07c309c110bd36a8974921a02ea1420528d9796b1afed2b16b8eb990441303e\"/></div><div><br/></div><div>근데 얼굴은 아님</div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "d07c309c110bd36a8974921a02ea1420528d9796b1afed2b16b8eb990441303e",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s8bce3d001_a1b381147d42fe2cd424d55cbac0b7d1b0f76480.webp",
-          "mime": "image/webp"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1431078",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431078&from=best",
       "title": "서울 원래 이러냐??",
@@ -60,6 +24,19 @@
           "digest": "3b6343f96d7955d9a4a9be748ccadf26b82da24585a90b0937dc48c54f3482e5",
           "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w623f63001_f0a82e1c50be23b1f71e3f411f4c483d653ad88a.jpg",
           "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431111",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431111&from=best",
+      "title": "남자가 돈이 없는건 용서가 된다는 일본여자",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:d07c309c110bd36a8974921a02ea1420528d9796b1afed2b16b8eb990441303e\"/></div><div><br/></div><div>근데 얼굴은 아님</div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "d07c309c110bd36a8974921a02ea1420528d9796b1afed2b16b8eb990441303e",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s8bce3d001_a1b381147d42fe2cd424d55cbac0b7d1b0f76480.webp",
+          "mime": "image/webp"
         }
       ]
     },
@@ -82,24 +59,6 @@
       ]
     },
     {
-      "source_id": "hu:1431167",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431167",
-      "title": "한국에서 힙합 랩 하는 사람들 이미지가 개박살난 그 사건",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:a5955a26a2e6b52d9b842b6b85e079198659c7944a5fb3eb81de0244a96e942b\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:ac0deb68219152af3ad4118fd92c2ab479f3e644b283c10d298a710216acb93e\"/>\n</div>\n</div>\n</div></div><div>존박이 당시 쿨케이 몰라서 검색해 봤더니</div><div>연관 검색어에 항문이랑 괄약근 뜸 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</div><div><br/></div><div><br/></div><div><br/></div><div>힙합 전사 </div><div><br/></div><div>살면서 온갓 역경은 다이겨냈다고 가사 쓴 놈들이 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</div><div><br/></div><div>겨우 군대 하나 빼려고 똥꾸멍에 힘줘서 면제 받음</div><div>（저새낀 걸려서 군대 감）</div><div><br/></div><div><br/></div><div>이 이후로 우리나라에서 힙합/래퍼 라고 하면</div><div>이미지가</div><div><br/></div><div>똥꾸멍에 힘줘서 군대 빼는 새끼들이라는 이미지가 박혀버림</div><div>ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ</div><div><br/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "a5955a26a2e6b52d9b842b6b85e079198659c7944a5fb3eb81de0244a96e942b",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sf5c08b001_eb38e5882db9873bb639b2551cfcee771897318a.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "ac0deb68219152af3ad4118fd92c2ab479f3e644b283c10d298a710216acb93e",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sf5c08b002_a596c3c26915e4811ed04b528cca18fae2a7595c.png",
-          "mime": "image/png"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1431173",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431173",
       "title": "자위에 미쳐서 오나홀 사이코가 되어버렸다는 아카인.jpg",
@@ -114,6 +73,24 @@
           "digest": "e1ba4b0df3580b905d82e14d45a6f1ef398483f1d28fe6e26f2a664b9620a987",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s244078002_e4d94a06dcf95c7db9706b61018ac5c71dda1f14.png",
           "mime": "image/png"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431179",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431179",
+      "title": "제정신이면 안 뽑겠지요.jpg",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:984b7a9cfd57428b184a543bbedcbbfcc6f4ee81f3aab876c3e21823fd3be531\"/>\n</div>\n</div>\n</div></div><div><br/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:8c79ebccb7efbc231b9df7f1e1879d94c7a3386a6afe58fc3f472f15fb1a20e9\"/></div><div><br/></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "984b7a9cfd57428b184a543bbedcbbfcc6f4ee81f3aab876c3e21823fd3be531",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s76fa8f001_c9f17e59ec313925c8b6554bb3bc34b6c7077e69.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "8c79ebccb7efbc231b9df7f1e1879d94c7a3386a6afe58fc3f472f15fb1a20e9",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s76fa8f002_6691fe94e55eff6b75ce2f0e88de0a905b3eb812.webp",
+          "mime": "image/webp"
         }
       ]
     },
@@ -156,24 +133,6 @@
       ]
     },
     {
-      "source_id": "hu:1431179",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431179",
-      "title": "제정신이면 안 뽑겠지요.jpg",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:984b7a9cfd57428b184a543bbedcbbfcc6f4ee81f3aab876c3e21823fd3be531\"/>\n</div>\n</div>\n</div></div><div><br/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:8c79ebccb7efbc231b9df7f1e1879d94c7a3386a6afe58fc3f472f15fb1a20e9\"/></div><div><br/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "984b7a9cfd57428b184a543bbedcbbfcc6f4ee81f3aab876c3e21823fd3be531",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s76fa8f001_c9f17e59ec313925c8b6554bb3bc34b6c7077e69.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "8c79ebccb7efbc231b9df7f1e1879d94c7a3386a6afe58fc3f472f15fb1a20e9",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s76fa8f002_6691fe94e55eff6b75ce2f0e88de0a905b3eb812.webp",
-          "mime": "image/webp"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1431174",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431174",
       "title": "누나랑 한 썰.jpg",
@@ -197,6 +156,47 @@
         {
           "digest": "6a23368ac6890931d852ad6e951fac5d99c464c70956a6b2694287eb38a2ff7d",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sc9dcb2004_851fc30a1af27b7faa5f44598f83b1f20ea72c58.webp",
+          "mime": "image/webp"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431182",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431182",
+      "title": "오늘자 화끈한 트짹언니들",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:ff2134bd9df309467623b46c3e0ea32bb63921b19c5de501368bc0619629a69f\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:2f3ca53e6f46960ab3aaa36c1776951bd25b1d30ed9c344bdfb3c477663e2dfe\"/>\n</div>\n</div>\n</div></div><div><br/></div><div><br/></div><div>오..</div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "ff2134bd9df309467623b46c3e0ea32bb63921b19c5de501368bc0619629a69f",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s52f259001_adfadd01e8b2852e22eaf4a98ecd56492d60ccf0.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "2f3ca53e6f46960ab3aaa36c1776951bd25b1d30ed9c344bdfb3c477663e2dfe",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s52f259002_bded83e756ed6c29cb3acc1e13b1d8b66e27d811.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431185",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431185",
+      "title": "누군지 몰라도 오토바이가 내거랑 똑같네.jpg",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:245e717a8f079669bc3b38e1b4d00a9f2e37443a986fb6aa45a5084a61a6a70a\"/>\n</div>\n</div>\n</div></div><div><br/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:6c5b80825c2dd05744cb34e0cfdd4c329fe409d16be7f2e83195adb2339ea5b6\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:b5d54714c6933ae6ec207968ccddb14806dff7d331ab26fea560ffafb85166d3\"/></div><div><br/></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "245e717a8f079669bc3b38e1b4d00a9f2e37443a986fb6aa45a5084a61a6a70a",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sc324e9001_799d200fbb27ccde52bd98b716354ad043e9c2a1.png",
+          "mime": "image/png"
+        },
+        {
+          "digest": "6c5b80825c2dd05744cb34e0cfdd4c329fe409d16be7f2e83195adb2339ea5b6",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sc324e9002_f284e255f6e17f0b3453daeeaba37d171b5e5577.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "b5d54714c6933ae6ec207968ccddb14806dff7d331ab26fea560ffafb85166d3",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sc324e9003_06ce909b8641f09eb665090aacf184545bdc4c34.webp",
           "mime": "image/webp"
         }
       ]
