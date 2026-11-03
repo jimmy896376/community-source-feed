@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T17:55:45.830807+00:00",
+  "generated_at": "2026-11-03T18:56:59.999166+00:00",
   "posts": [
     {
       "source_id": "hu:1431096",
@@ -36,6 +36,24 @@
         {
           "digest": "d07c309c110bd36a8974921a02ea1420528d9796b1afed2b16b8eb990441303e",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s8bce3d001_a1b381147d42fe2cd424d55cbac0b7d1b0f76480.webp",
+          "mime": "image/webp"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431114",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431114&from=best",
+      "title": "코딩 배워서 하고 싶은 일이 확실한 여고생.jpg",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:c98710a0b1e7c912d96b95f3d29ab06452a6052c716d3ae304ccf86a71975128\"/>\n</div>\n</div>\n</div></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:93bd4d38df766969c6b9e669394580e2f24d03c6e261904919b91dbb1178beba\"/></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "c98710a0b1e7c912d96b95f3d29ab06452a6052c716d3ae304ccf86a71975128",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s669c22001_fb89d8950d1d484dd669bf00cbb314262d63e0a5.png",
+          "mime": "image/png"
+        },
+        {
+          "digest": "93bd4d38df766969c6b9e669394580e2f24d03c6e261904919b91dbb1178beba",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s669c22002_76c4b1f40f03e8bf53af51c4df408f4214cea11e.webp",
           "mime": "image/webp"
         }
       ]
@@ -157,24 +175,6 @@
           "digest": "6a23368ac6890931d852ad6e951fac5d99c464c70956a6b2694287eb38a2ff7d",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sc9dcb2004_851fc30a1af27b7faa5f44598f83b1f20ea72c58.webp",
           "mime": "image/webp"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1431182",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431182",
-      "title": "오늘자 화끈한 트짹언니들",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:ff2134bd9df309467623b46c3e0ea32bb63921b19c5de501368bc0619629a69f\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:2f3ca53e6f46960ab3aaa36c1776951bd25b1d30ed9c344bdfb3c477663e2dfe\"/>\n</div>\n</div>\n</div></div><div><br/></div><div><br/></div><div>오..</div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "ff2134bd9df309467623b46c3e0ea32bb63921b19c5de501368bc0619629a69f",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s52f259001_adfadd01e8b2852e22eaf4a98ecd56492d60ccf0.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "2f3ca53e6f46960ab3aaa36c1776951bd25b1d30ed9c344bdfb3c477663e2dfe",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s52f259002_bded83e756ed6c29cb3acc1e13b1d8b66e27d811.jpg",
-          "mime": "image/jpeg"
         }
       ]
     },
