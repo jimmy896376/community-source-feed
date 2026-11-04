@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T21:53:50.786674+00:00",
+  "generated_at": "2026-11-04T22:52:23.200788+00:00",
   "posts": [
     {
       "source_id": "hu:1431212",
@@ -41,24 +41,6 @@
         {
           "digest": "4b8d442f8a6695309e82fd9039f89d723c2f5fefd2ce1ec478c0b9685cf03b1a",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s6e9b22002_5a924b20e5fa5a6c85ef688ecf4b1fa8e42a07b8.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1431193",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431193&from=best",
-      "title": "정신과 의사쌤이 나 좋아하는거 같음.jpg",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:245e717a8f079669bc3b38e1b4d00a9f2e37443a986fb6aa45a5084a61a6a70a\"/>\n</div>\n</div>\n</div></div><div><br/></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:3aa1641361e932de513acab0cf0a418625cc20e62d08238d3e3d06395c6d3576\"/>\n</div>\n</div>\n</div></div><div><br/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "245e717a8f079669bc3b38e1b4d00a9f2e37443a986fb6aa45a5084a61a6a70a",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s00ea5c001_799d200fbb27ccde52bd98b716354ad043e9c2a1.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "3aa1641361e932de513acab0cf0a418625cc20e62d08238d3e3d06395c6d3576",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s00ea5c002_171d3d1443196dc4eabe10483a42f9a82d764b2c.jpg",
           "mime": "image/jpeg"
         }
       ]
@@ -123,24 +105,6 @@
       ]
     },
     {
-      "source_id": "hu:1431292",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431292",
-      "title": "모텔 섹튀 사건.jpg",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:525e04a840a1bd5de4df24caf303c62e81d8efb9e15d0434fcd0ccb30575eb21\"/>\n</div>\n</div>\n</div></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:5372cb5ec83843041b510b306084c5af8768f28d376a0b62dab566b143bd1daf\"/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "525e04a840a1bd5de4df24caf303c62e81d8efb9e15d0434fcd0ccb30575eb21",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s78eb78001_61e7f20183fbdb0d9b2ec1ec9b36766f5de690ed.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "5372cb5ec83843041b510b306084c5af8768f28d376a0b62dab566b143bd1daf",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s78eb78002_de76d08355fdbdfb25acb857c88ca67e9bf3ea6b.webp",
-          "mime": "image/webp"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1431300",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431300",
       "title": "14시간 걸어서 대회장 도착 후 마라톤 1등 한 멕시코 누님",
@@ -164,6 +128,24 @@
       ]
     },
     {
+      "source_id": "hu:1431292",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431292",
+      "title": "모텔 섹튀 사건.jpg",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:525e04a840a1bd5de4df24caf303c62e81d8efb9e15d0434fcd0ccb30575eb21\"/>\n</div>\n</div>\n</div></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:5372cb5ec83843041b510b306084c5af8768f28d376a0b62dab566b143bd1daf\"/></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "525e04a840a1bd5de4df24caf303c62e81d8efb9e15d0434fcd0ccb30575eb21",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s78eb78001_61e7f20183fbdb0d9b2ec1ec9b36766f5de690ed.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "5372cb5ec83843041b510b306084c5af8768f28d376a0b62dab566b143bd1daf",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s78eb78002_de76d08355fdbdfb25acb857c88ca67e9bf3ea6b.webp",
+          "mime": "image/webp"
+        }
+      ]
+    },
+    {
       "source_id": "hu:1431295",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431295",
       "title": "미국 중간선거 근황",
@@ -173,6 +155,24 @@
           "digest": "03a07bfd07ae091efb22b5379ec1c053759de29dde2b0c24217ba1a4824bf099",
           "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w7517c7001_1c7c8680bbc9428838dffb0179a95bc83cd72230.png",
           "mime": "image/png"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431294",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431294",
+      "title": "질내사정은 솔직히 심리적 쾌감에 가까움.jpg",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:f79d9b1d4d13f60739241831dcfeaea258d926a126dfae0916bafde30ae8cd86\"/>\n</div>\n</div>\n</div></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:2e825aa89df0b5d12d59abc000605eeb8b7b041b6550021a5ba444a67802922c\"/></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "f79d9b1d4d13f60739241831dcfeaea258d926a126dfae0916bafde30ae8cd86",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sf0a1e2001_493418934290abf507fb3529a3e015d20ad2b9ac.png",
+          "mime": "image/png"
+        },
+        {
+          "digest": "2e825aa89df0b5d12d59abc000605eeb8b7b041b6550021a5ba444a67802922c",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sf0a1e2002_7d5ae6f8f8ecaa80fa22c6b2a4800d04020a16da.webp",
+          "mime": "image/webp"
         }
       ]
     }
