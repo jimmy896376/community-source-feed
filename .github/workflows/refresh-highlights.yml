@@ -2,7 +2,7 @@ name: Refresh major highlight candidates
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '5 * * * *'
   workflow_dispatch:
   push:
     paths:
