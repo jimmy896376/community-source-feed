@@ -4,6 +4,6 @@ This repository collects approved public Humoruniv posts in `feed.json` and rece
 
 The highlight collector checks Coupang Play Sports, SPOTV, NBA, and KBO. It filters selected marquee team names across football, baseball, basketball, and volleyball. Korean Series and NBA Finals/Cup/Playoffs highlights qualify as major events even when neither team matches the curated list.
 
-A title match creates a candidate only. It does not prove match details, rights, or Korean playback. The private publisher posts only entries with a private record of actual Korean embedded playback and official match verification.
+The private publisher uses these official-channel candidates to post recent full-match highlights and connect each post to AI Time Machine with team, league, and date fields. The publisher does not add scores or game summaries; the site handles match details. Individual KBO moment clips are excluded.
 
-The public collector stores source metadata only. It has no destination-site address, account, password, API key, or publishing code. Posting settings and Korean playback verification stay in the private `nude-tv-free-board-automation` repository.
+The public collector stores source metadata only. It has no destination-site address, account, password, API key, or publishing code. Posting settings stay in the private `nude-tv-free-board-automation` repository.
