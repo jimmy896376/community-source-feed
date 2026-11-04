@@ -60,11 +60,13 @@ def collect():
             raw_id = entry.findtext("{http://www.youtube.com/xml/schemas/2015}videoId", "")
             title = entry.findtext(ATOM + "title", "").strip()
             published = entry.findtext(ATOM + "published", "")
+            description = entry.findtext("{http://search.yahoo.com/mrss/}group/{http://search.yahoo.com/mrss/}description", "").strip()
             if not VIDEO_ID.fullmatch(raw_id) or not is_major_highlight(title):
                 continue
             videos[raw_id] = {
                 "video_id": raw_id,
                 "title": title,
+                "description": description,
                 "channel_id": channel_id,
                 "channel": channel_name,
                 "published_at": published,
