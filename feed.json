@@ -1,24 +1,6 @@
 {
-  "generated_at": "2026-11-05T20:56:15.870954+00:00",
+  "generated_at": "2026-11-05T21:52:58.397316+00:00",
   "posts": [
-    {
-      "source_id": "hu:1431309",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431309&from=best",
-      "title": "사이비가 피하는 사람들 특징",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:fcbe62b4ba4226748c0b0540e66f13f242a39c7cf43af2c40b847af2167ea9ac\"/>\n</div>\n</div>\n</div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:6551e6f514f5bcf2c1c012154318d99c93c2fc9504e02f82a44548cd24cb3794\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t아 그래서 내가! \n\n</p>\n",
-      "images": [
-        {
-          "digest": "fcbe62b4ba4226748c0b0540e66f13f242a39c7cf43af2c40b847af2167ea9ac",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wb0582f001_3c55e4948d228ac0a9e73a59426f3b19dce969ac.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "6551e6f514f5bcf2c1c012154318d99c93c2fc9504e02f82a44548cd24cb3794",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wb0582f002_bf692ba22607f150ad6a871bafbf3941a0339317.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
     {
       "source_id": "hu:1431343",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431343&from=best",
@@ -33,6 +15,97 @@
         {
           "digest": "4535679fa475f737b8ad0e877c0d831bd48aa895c28769c2de056ed2e0258e9a",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s1edf0c002_f92d29ab720c81f5401110997fd7bdb178d5ec9c.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431374",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431374&from=best",
+      "title": "신입들 칼퇴근 하라는데 왜 안하지",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:321c10f15dd3c5b0886e1f13ddc323cca179bd56d898a32cccd31f13cf8b8f4e\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:bed54c81e56e3e9686e74db48b7cef4ffcbe9ea41518aeb12ba5ef8f4c057b6b\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:4766717076964a87f8352de1fc96a26f2a9ac1b3f0b59cf59fa0e2db3fe2da71\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:10352a29dd578e51f5220e93a80e68ee592b56a9d9ea2019052f092a1186b973\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:44b665e1321f0e487192195fb07032f5c48d9984b49053fb1e09b24c68283a5b\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:4b981f045b2d4d66d0098b25624e40729adb09b06b440918086942f6502d2675\"/></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "321c10f15dd3c5b0886e1f13ddc323cca179bd56d898a32cccd31f13cf8b8f4e",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s1b4b6b001_eed93bba1fb0862021148c5ac6a0edc93d7bf835.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "bed54c81e56e3e9686e74db48b7cef4ffcbe9ea41518aeb12ba5ef8f4c057b6b",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s1b4b6b002_176ac4418db108e888fa146c7a2fc424059bb167.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "4766717076964a87f8352de1fc96a26f2a9ac1b3f0b59cf59fa0e2db3fe2da71",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s1b4b6b003_6bd6deb3aa1107dd1d6f01e3249bcee14b510496.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "10352a29dd578e51f5220e93a80e68ee592b56a9d9ea2019052f092a1186b973",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s1b4b6b004_376d39502176ea458392d23a5ef8c16121ce44b2.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "44b665e1321f0e487192195fb07032f5c48d9984b49053fb1e09b24c68283a5b",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s1b4b6b005_3145859b0fc1651f5a09b34ad88a20794bcc4110.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "4b981f045b2d4d66d0098b25624e40729adb09b06b440918086942f6502d2675",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s1b4b6b006_dcd48c520a184ce2747a28a2713273c9093c9ebb.webp",
+          "mime": "image/webp"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431312",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1431312&from=best",
+      "title": "전기 훔쳐쓰다 정의구현 당한 상가 업주들",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:0322b9f0f5d15810b114dc6ae0805be4fa91764c7ac69508d936b3b98624cc8e\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:d72fd6a1d94b66513bd84bf7caffbec48055da3a987adc9d912075a2b44c1c79\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:421ba9ceef8b7c43750657562e80695a4a7ac574fc8a1b3553ba2abe5a473404\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:17adfdce933c0900c8f3a7e37f2a88e0c39d5c7fd723e4123e0e1394d275c5a9\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:93e5a5d8f12f6f44672cbadbe237381cbfabf8a70bad074fb8b65a888b77e91d\"/>\n</div>\n</div>\n</div></div><div>전기업자 불러서 전기계량기 일부를 거치지 않고 </div><div>직접 상가에 연결... 그 동안 전기 요금의 1/3만 내고 있었다고 함...</div><div><br/></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:76d42294a5a0e760864a72fcddff88cb1b2cfb7f5ba4b77a1dc58e7f60517913\"/>\n</div>\n</div>\n</div></div><div>상가 업주들이 훔친 전기 약 9억 5천만 원 상당....</div><div><br/></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:2a422b0ce10ec0ce870ae51000f8428748ec9f7e52c35d2fcc2a554a5a9bee2e\"/>\n</div>\n</div>\n</div></div><div>그것도 큰 금액이지만</div><div>한전은 그 3배인 29억 원의 위약금 부과해버림....</div><div><br/></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:262579e818d5f5a42e0685e2c635a01ab66174ec618ecc8157db806269855491\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:d8cab5512470c16ba34bf98af97453829de5bd39f000faa460c4c510b6a5c52e\"/>\n</div>\n</div>\n</div></div><div>전기 훔쳐 쓰지 맙시다....</div>\n</div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "0322b9f0f5d15810b114dc6ae0805be4fa91764c7ac69508d936b3b98624cc8e",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s96d60d001_b41287c8bf2d19e82db65a40c48ba035468df7fc.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "d72fd6a1d94b66513bd84bf7caffbec48055da3a987adc9d912075a2b44c1c79",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s96d60d002_335e3c12a1455f58c54f2d6dbe245f69fbaf7de2.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "421ba9ceef8b7c43750657562e80695a4a7ac574fc8a1b3553ba2abe5a473404",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s96d60d003_0138763daa7bcd2000de2a5b273433fb6c54c524.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "17adfdce933c0900c8f3a7e37f2a88e0c39d5c7fd723e4123e0e1394d275c5a9",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s96d60d004_3df307c4585d9c799258fd2c21be4ba95bc37397.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "93e5a5d8f12f6f44672cbadbe237381cbfabf8a70bad074fb8b65a888b77e91d",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s96d60d005_29c7f35159e32227d19b220d354dfe2c98d54648.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "76d42294a5a0e760864a72fcddff88cb1b2cfb7f5ba4b77a1dc58e7f60517913",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s96d60d006_41c914bce248fe93f9f1370e54fd972b7ee02a55.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "2a422b0ce10ec0ce870ae51000f8428748ec9f7e52c35d2fcc2a554a5a9bee2e",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s96d60d007_a35d08bbc0303d4bdedbc2be51d47e02a1426a8a.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "262579e818d5f5a42e0685e2c635a01ab66174ec618ecc8157db806269855491",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s96d60d008_499f70f5d6b96985a66ac2ff2ef378d9fe3a0428.png",
+          "mime": "image/png"
+        },
+        {
+          "digest": "d8cab5512470c16ba34bf98af97453829de5bd39f000faa460c4c510b6a5c52e",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s96d60d009_8c49afc0724fac2191db8a25dd5ffe14f3bd2ab1.jpg",
           "mime": "image/jpeg"
         }
       ]
@@ -60,67 +133,6 @@
           "digest": "f6ab34e0fc3fe41787d30aec60fa457418c5d22fec3735f189c19abc01cb1b21",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s5daec8001_94b5a3d6a4ddefad27ca9e2ef45f24e9336f544e.jpg",
           "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1431415",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431415",
-      "title": "옆집 소음에 항의하러 간 할머니",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:93a500e813e879956a17e32150892563056cf6a1885706a62fd0a69f121b56a6\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:df4ca6e1da976d062efc16c410a687bccae8a2b2f6323579a72dba1739adf368\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:73c60d155e0e27ebcbcbff5791a75b4a24100367f981b55fcbdc7ef04c9bb2c6\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:eaf1e9daf361c21149bc7c716b2ad052ccd4a0d5fe102bb9897a84d148c79008\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:7956f1172e03eadb911f4e89af3e4dbddf6dc421c52ece7a5ab4a711e67c9950\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "93a500e813e879956a17e32150892563056cf6a1885706a62fd0a69f121b56a6",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s50a799001_c754cbd4497333e2c486f630468eeba118991253.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "df4ca6e1da976d062efc16c410a687bccae8a2b2f6323579a72dba1739adf368",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s50a799002_ed2b10068a82ae4ab7254c4948d824f0563f3cf3.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "73c60d155e0e27ebcbcbff5791a75b4a24100367f981b55fcbdc7ef04c9bb2c6",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s50a799003_f92bb51befabe60087429a3a3f76d661f7f0a59b.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "eaf1e9daf361c21149bc7c716b2ad052ccd4a0d5fe102bb9897a84d148c79008",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s50a799004_b528808819967f20e9ecea7d9ce62e3fcd804a3b.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "7956f1172e03eadb911f4e89af3e4dbddf6dc421c52ece7a5ab4a711e67c9950",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s50a799005_610c36a82915fe7d9756a5e1679939317d11933a.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1431414",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431414",
-      "title": "신혼부부 도시락 만화.manwha",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:525e04a840a1bd5de4df24caf303c62e81d8efb9e15d0434fcd0ccb30575eb21\"/>\n</div>\n</div>\n</div>\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:971c8141e922e2142ef66fafbc410bd3c41b735a1902820efbc5b01c8bb475b9\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:7baf73ea37e480a30d9adecda1112a273ccd6c4edb550333f124f32bb6989e61\"/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:95533605d3f773c2b16cb18d4bea8f5aebb5e03f13b630e02a03675f0e229eff\"/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "525e04a840a1bd5de4df24caf303c62e81d8efb9e15d0434fcd0ccb30575eb21",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wcb557d001_61e7f20183fbdb0d9b2ec1ec9b36766f5de690ed.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "971c8141e922e2142ef66fafbc410bd3c41b735a1902820efbc5b01c8bb475b9",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s66f773002_2758c10655231812a19b8ec690cc822950d9cbc7.webp",
-          "mime": "image/webp"
-        },
-        {
-          "digest": "7baf73ea37e480a30d9adecda1112a273ccd6c4edb550333f124f32bb6989e61",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s66f773003_53d1ccac6ef816bd6df40197a5b7d149d1323048.webp",
-          "mime": "image/webp"
-        },
-        {
-          "digest": "95533605d3f773c2b16cb18d4bea8f5aebb5e03f13b630e02a03675f0e229eff",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s66f773004_50b174d3fade995bb66b8cd36fca3112d8de4c88.webp",
-          "mime": "image/webp"
         }
       ]
     },
@@ -176,6 +188,24 @@
       ]
     },
     {
+      "source_id": "hu:1431429",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431429",
+      "title": "요즘 ChatGPT 특징",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:47f36e5da7f032fe8d622dd515249ecb23386604ec315e0b8e387d0bcd40e1b9\"/>\n</div>\n</div>\n</div></div><div><br/></div><div><br/></div><div><br/></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:eb1c5a31117a963e6fe0e09ad8b84cce7f9ca6f5ef158153bbc59bf57f6dc212\"/>\n</div>\n</div>\n</div></div><div><br/></div><div>ㄹㅇ</div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "47f36e5da7f032fe8d622dd515249ecb23386604ec315e0b8e387d0bcd40e1b9",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sa3a64f001_6d525206d3212b9613be571cb6303e50e6dfb040.png",
+          "mime": "image/png"
+        },
+        {
+          "digest": "eb1c5a31117a963e6fe0e09ad8b84cce7f9ca6f5ef158153bbc59bf57f6dc212",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sa3a64f002_64046258ce3a4bb8173a4c34e5c0b05bf1844c50.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
       "source_id": "hu:1431423",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431423",
       "title": "아 나 프리렌 못보겠음(스포주의)",
@@ -189,20 +219,15 @@
       ]
     },
     {
-      "source_id": "hu:1431418",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431418",
-      "title": "여장ㅅㅅ로 알바하던 대학생.jpg",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:525e04a840a1bd5de4df24caf303c62e81d8efb9e15d0434fcd0ccb30575eb21\"/>\n</div>\n</div>\n</div>\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:5e4d95a75936354c8bbf86ba12511f8edc5b2cfda71b6a2ffe00b14b24525582\"/></div></div>\n<p></p>\n",
+      "source_id": "hu:1431425",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431425",
+      "title": "엄마가 됐다",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:1094d7215dfe4752592c6858a3cb09445023f8aecb986f63e3f7e97261e9f097\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t12시 넘었으니 이제 9일차 엄마가 됐어 <br/>\n밤새 수유텀 확인하고싶어서 기껏 몸조리 하라고 조리원 보내줬는데 수유콜 받느라 2시간 자고 허리 다시 작살나서 남편이 모자동실 금지령 내리고 갔는데<br/>\n그냥 혼자 멍 하고 있는데 눈물이 줄줄 나온다 <br/>\n지금이 너무 행복하고 기뻐서 내 삶이 맞는건지 모르겠어서<br/>\n계속 불행하고 불쌍하다는 말 되게 많이 듣고 살았고 <br/>\n여러가지 이유로 결혼으로 이룬 가족이라는건 결국 불행이라는 생각이 들어 비혼주의에 딩크였는데<br/>\n너무 좋은 사람을 만나서 내가 이런 행복도 느껴보고 이런 사랑도 받아보는구나 싶어서 눈물이 자꾸만 나와 <br/>\n꼭 내가 귀하고 소중한 것처럼 대하고 느끼게 하는 남편이 너무 좋아 <br/>\n우리 아기가 너무 나를 닮았는데 또 남편얼굴이랑도 너무 닮아서 신기하고 예쁘다..얼른 또 보고싶어 빨리 집에 가고싶다 \n\n</p>\n",
       "images": [
         {
-          "digest": "525e04a840a1bd5de4df24caf303c62e81d8efb9e15d0434fcd0ccb30575eb21",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wa649ad001_61e7f20183fbdb0d9b2ec1ec9b36766f5de690ed.jpg",
+          "digest": "1094d7215dfe4752592c6858a3cb09445023f8aecb986f63e3f7e97261e9f097",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w4b9844001_e77b61239235bfdfdc7f2275804bbdb170425c22.jpg",
           "mime": "image/jpeg"
-        },
-        {
-          "digest": "5e4d95a75936354c8bbf86ba12511f8edc5b2cfda71b6a2ffe00b14b24525582",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s8435d8002_61eb9d452ad46f88fef908db688f5dda3d2c5e6e.webp",
-          "mime": "image/webp"
         }
       ]
     }
