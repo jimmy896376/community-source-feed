@@ -12,6 +12,12 @@ CHANNELS = {
     "UCtm_QoN2SIxwCE-59shX7Qg": "SPOTV",
     "UCWJ2lWNubArHWmf3FIHbfcQ": "NBA",
     "UCoVz66yWHzVsXAFG8WhJK9g": "KBO",
+    "UCG5qGWdu8nIRZqJ_GgDwQ-w": "Premier League",
+    "UC6UL29enLNe4mqwTfAyeNuw": "Bundesliga",
+    "UCTv-XvfzLX3i4IGWAm4sbmA": "LaLiga",
+    "UCoLrcjPV5PbUrUyXq5mjc_A": "MLB",
+    "UCak5ZEX4BjijJcf7fdppuIQ": "K League",
+    "UC-QIqPAffXGJVgy_tnn145w": "KOVO",
 }
 ATOM = "{http://www.w3.org/2005/Atom}"
 VIDEO_ID = re.compile(r"^[A-Za-z0-9_-]{11}$")
@@ -32,15 +38,18 @@ MAJOR_TEAMS = (
     # Baseball
     "KIA 타이거즈", "KIA", "삼성 라이온즈", "삼성", "LG 트윈스", "두산 베어스",
     "롯데 자이언츠", "한화 이글스", "KT 위즈", "KT위즈", "KT Wiz",
+    "Dodgers", "Yankees", "Mets", "Blue Jays", "Red Sox", "Cubs", "Braves", "Phillies", "Padres", "Astros",
     # Basketball
     "서울 SK 나이츠", "SK 나이츠", "부산 KCC", "KCC 이지스", "수원 KT",
     "창원 LG 세이커스", "원주 DB 프로미", "안양 정관장",
     "Lakers", "Warriors", "Celtics", "Knicks", "Bulls", "Spurs",
     "Mavericks", "Nuggets", "76ers", "Clippers", "Heat", "Suns",
     "Cavaliers", "Thunder", "Rockets",
+    # K League
+    "전북 현대", "울산 HD", "FC 서울", "포항 스틸러스", "인천 유나이티드", "대전 하나", "수원 삼성",
     # Volleyball
     "대한항공 점보스", "현대캐피탈 스카이워커스", "OK저축은행 읏맨",
-    "흥국생명 핑크스파이더스", "현대건설 힐스테이트",
+    "흥국생명 핑크스파이더스", "현대건설 힐스테이트", "삼성화재 블루팡스", "우리카드 우리WON", "정관장 레드스파크스", "GS칼텍스 서울 KIXX",
 )
 MAJOR_MATCH = re.compile("|".join(re.escape(name) for name in MAJOR_TEAMS), re.I)
 
