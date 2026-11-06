@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-06T10:06:51.440593+00:00",
+  "generated_at": "2026-11-06T10:56:25.470018+00:00",
   "videos": [
+    {
+      "video_id": "Ho5JAxOFXXk",
+      "title": "자기 몸을 아끼지 않고 그물로 던진 삼성 김영웅의 중요한 수비! | KS3_KT vs 삼성 | 11.6 | 크보모먼트 | KBO 야구 하이라이트",
+      "channel_id": "UCoVz66yWHzVsXAFG8WhJK9g",
+      "channel": "KBO",
+      "published_at": "2026-11-06T10:19:34+00:00",
+      "url": "https://www.youtube.com/watch?v=Ho5JAxOFXXk"
+    },
     {
       "video_id": "6b68L5q2OfY",
       "title": "삼성라이온즈 레전드 '라이온 킹' 이승엽이 시구로 한국시리즈 3차전을 알립니다! | KS3_KT vs 삼성 | 11.6 | 크보모먼트 | KBO 야구 하이라이트",
@@ -58,52 +66,12 @@
       "url": "https://www.youtube.com/watch?v=o18NzsmVdys"
     },
     {
-      "video_id": "rCcPc0JhY9U",
-      "title": "[삼성라이온즈 vs KT위즈] 11.04(수) KS 2차전 하이라이트｜2026 신한 SOL KBO 포스트시즌｜한국시리즈 2차전｜KBO X TVING",
-      "channel_id": "UCoVz66yWHzVsXAFG8WhJK9g",
-      "channel": "KBO",
-      "published_at": "2026-11-04T14:46:31+00:00",
-      "url": "https://www.youtube.com/watch?v=rCcPc0JhY9U"
-    },
-    {
-      "video_id": "4wYym92p75M",
-      "title": "삼성 배찬승의 배짱투로 12회를 막으며 팀의 승리를 지킵니다! | KS2_삼성 vs KT | 11.4 | 크보모먼트 | KBO 야구 하이라이트",
-      "channel_id": "UCoVz66yWHzVsXAFG8WhJK9g",
-      "channel": "KBO",
-      "published_at": "2026-11-04T14:43:39+00:00",
-      "url": "https://www.youtube.com/watch?v=4wYym92p75M"
-    },
-    {
-      "video_id": "NOxXXwTavZw",
-      "title": "KT 김정운의 ABS존 완벽 공략! 이닝을 막아냅니다! | KS2_삼성 vs KT | 11.4 | 크보모먼트 | KBO 야구 하이라이트",
-      "channel_id": "UCoVz66yWHzVsXAFG8WhJK9g",
-      "channel": "KBO",
-      "published_at": "2026-11-04T13:46:39+00:00",
-      "url": "https://www.youtube.com/watch?v=NOxXXwTavZw"
-    },
-    {
-      "video_id": "eJQaTa2wRSE",
-      "title": "삼성 김지찬의 호수비 도움으로 함께 경기를 연장으로 이끈 원태인! | KS2_삼성 vs KT | 11.4 | 크보모먼트 | KBO 야구 하이라이트",
-      "channel_id": "UCoVz66yWHzVsXAFG8WhJK9g",
-      "channel": "KBO",
-      "published_at": "2026-11-04T12:56:08+00:00",
-      "url": "https://www.youtube.com/watch?v=eJQaTa2wRSE"
-    },
-    {
       "video_id": "3sPRQofjlvw",
       "title": "[26/27 UCL] 바르셀로나 vs 아스톤 빌라 3분 하이라이트｜SPOTV FOOTBALL",
       "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
       "channel": "SPOTV",
       "published_at": "2026-11-04T05:00:28+00:00",
       "url": "https://www.youtube.com/watch?v=3sPRQofjlvw"
-    },
-    {
-      "video_id": "Ko7ueU_o6cg",
-      "title": "[26/27 UCL] AT 마드리드 vs 바이에른 뮌헨 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-04T05:00:22+00:00",
-      "url": "https://www.youtube.com/watch?v=Ko7ueU_o6cg"
     }
   ]
 }
