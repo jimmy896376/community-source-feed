@@ -1,13 +1,21 @@
 {
-  "generated_at": "2026-11-05T21:52:59.215602+00:00",
+  "generated_at": "2026-11-06T08:15:58.097547+00:00",
   "videos": [
     {
-      "video_id": "qz1LM3gsHNw",
-      "title": "HEAT at CLIPPERS | FULL GAME HIGHLIGHTS | November 4, 2026",
+      "video_id": "ufkeiEsJrx0",
+      "title": "HEAT at WARRIORS | FULL GAME HIGHLIGHTS | November 5, 2026",
       "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
       "channel": "NBA",
-      "published_at": "2026-11-05T06:37:49+00:00",
-      "url": "https://www.youtube.com/watch?v=qz1LM3gsHNw"
+      "published_at": "2026-11-06T05:58:15+00:00",
+      "url": "https://www.youtube.com/watch?v=ufkeiEsJrx0"
+    },
+    {
+      "video_id": "jOnSyL073rY",
+      "title": "MAGIC at SUNS | FULL GAME HIGHLIGHTS | November 5, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-06T04:44:13+00:00",
+      "url": "https://www.youtube.com/watch?v=jOnSyL073rY"
     },
     {
       "video_id": "jumqoFP0P6E",
@@ -74,14 +82,6 @@
       "url": "https://www.youtube.com/watch?v=eJQaTa2wRSE"
     },
     {
-      "video_id": "GNX4sZ6-ie0",
-      "title": "삼성 페덱의 엄청난 역투! 7회도 막으며 완벽한 피칭을 보여줍니다! | KS2_삼성 vs KT | 11.4 | 크보모먼트 | KBO 야구 하이라이트",
-      "channel_id": "UCoVz66yWHzVsXAFG8WhJK9g",
-      "channel": "KBO",
-      "published_at": "2026-11-04T12:17:35+00:00",
-      "url": "https://www.youtube.com/watch?v=GNX4sZ6-ie0"
-    },
-    {
       "video_id": "3sPRQofjlvw",
       "title": "[26/27 UCL] 바르셀로나 vs 아스톤 빌라 3분 하이라이트｜SPOTV FOOTBALL",
       "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
@@ -96,14 +96,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-04T05:00:22+00:00",
       "url": "https://www.youtube.com/watch?v=Ko7ueU_o6cg"
-    },
-    {
-      "video_id": "unLs3DcfWGo",
-      "title": "[여자프로농구] 삼성생명 vs 하나은행ㅣ5분 하이라이트 (11.02)",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-02T12:30:01+00:00",
-      "url": "https://www.youtube.com/watch?v=unLs3DcfWGo"
     }
   ]
 }
