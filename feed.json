@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:43:40.474709+00:00",
+  "generated_at": "2026-11-07T22:43:45.262396+00:00",
   "posts": [
     {
       "source_id": "hu:1431576",
@@ -11,19 +11,6 @@
           "digest": "e6569ae9e77a1c9d51ac155f6d8980f1213eba02d758a6c222b8968ee72d5653",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s688807001_8450a8214fb63c79b3c5545d7400ebee5e38a0ff.webp",
           "mime": "image/webp"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1431643",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431643",
-      "title": "선배. 많은 존재를 죽이고 살아남았군요.",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:b005b44e2482462aff10f1d425e18a6ec8bdf4916fd52e4f0f5cd60998f5f8a1\"/>\n</div>\n</div>\n</div>\n<p>\n</p>\n",
-      "images": [
-        {
-          "digest": "b005b44e2482462aff10f1d425e18a6ec8bdf4916fd52e4f0f5cd60998f5f8a1",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w87be56001_447e14118dd9784d357f164777bb73665d90741c.jpg",
-          "mime": "image/jpeg"
         }
       ]
     },
@@ -364,29 +351,6 @@
       ]
     },
     {
-      "source_id": "hu:1431653",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431653",
-      "title": "포켓몬 생태도감에 있는 웃긴 장면.jpg",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:f8c916718b7a2c6efca72861d707cb1325bd9e274b19e08bfc032a830836a4bc\"/></div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:76b7a107580de37fd9f47e5e37880582bfa06781fdb25c5b26635c82fa93b2b6\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:e8af729030a07b223b2f0e8005d3e50df4c0e53851b62a861377ad63b4112136\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "f8c916718b7a2c6efca72861d707cb1325bd9e274b19e08bfc032a830836a4bc",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sa05ac1001_24e5f839ee747f778527c05f2206589bc4721feb.png",
-          "mime": "image/png"
-        },
-        {
-          "digest": "76b7a107580de37fd9f47e5e37880582bfa06781fdb25c5b26635c82fa93b2b6",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sa05ac1002_6a3384e74c9a1abb239039a1f0e8468214c8db30.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "e8af729030a07b223b2f0e8005d3e50df4c0e53851b62a861377ad63b4112136",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sa05ac1003_875789ab44c9b97cb539cc574ed999a578867379.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1431660",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431660",
       "title": "무협 웹툰 속 고수들의 대화.jpg",
@@ -440,6 +404,29 @@
       ]
     },
     {
+      "source_id": "hu:1431653",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431653",
+      "title": "포켓몬 생태도감에 있는 웃긴 장면.jpg",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:f8c916718b7a2c6efca72861d707cb1325bd9e274b19e08bfc032a830836a4bc\"/></div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:76b7a107580de37fd9f47e5e37880582bfa06781fdb25c5b26635c82fa93b2b6\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:e8af729030a07b223b2f0e8005d3e50df4c0e53851b62a861377ad63b4112136\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "f8c916718b7a2c6efca72861d707cb1325bd9e274b19e08bfc032a830836a4bc",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sa05ac1001_24e5f839ee747f778527c05f2206589bc4721feb.png",
+          "mime": "image/png"
+        },
+        {
+          "digest": "76b7a107580de37fd9f47e5e37880582bfa06781fdb25c5b26635c82fa93b2b6",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sa05ac1002_6a3384e74c9a1abb239039a1f0e8468214c8db30.jpg",
+          "mime": "image/jpeg"
+        },
+        {
+          "digest": "e8af729030a07b223b2f0e8005d3e50df4c0e53851b62a861377ad63b4112136",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sa05ac1003_875789ab44c9b97cb539cc574ed999a578867379.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
       "source_id": "hu:1431657",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431657",
       "title": "왜 남자들은 잠옷을 안입는걸까",
@@ -453,39 +440,6 @@
       ]
     },
     {
-      "source_id": "hu:1431644",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431644",
-      "title": "한 네티즌이 미국 ai 데이터센터 사태를 보고 느낀 점",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:57b2d9df275f6ce9430d26c5505847f6b1755832c500604570c280c5c93196e5\"/></div>\n<div><br/></div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:d05e059a651ef042463153eb666b9106f61427dfd2add80bb6153145469b9265\"/></div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:d381734ee84817d4390069c774165703d8447aef941fea12761b86e6850d54a9\"/>\n</div>\n</div>\n</div></div><div><br/></div><div><br/></div><div>지금도 돈 안 쓰려고 </div><div>자국민한테 저러는데</div><div>초지능 ai로 벌어들인 부를 독점하면</div><div>그냥 지들이 다 먹겠지</div><div><br/></div><div>디스토피아냐 유토피아냐</div><div>불안의 시대다</div><div><br/></div><div><br/></div><div><br/></div>\n<div><table><tbody><tr><td>\n<div>\n<div><img alt=\"\" src=\"asset:50b3ec612820d0c782acaa2173b8ca1baa79ef920a64b32822cf9ca6b2ee8fcf\"/>\n<div>MP4</div>\n<div><img alt=\"\" src=\"asset:226d204b5d562ab33edb76f7156ed1e392206189f44a4e98be4037879d082bb1\"/></div>\n</div>\n</div></td></tr></tbody></table></div><div><br/></div><div>소음 수준</div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "57b2d9df275f6ce9430d26c5505847f6b1755832c500604570c280c5c93196e5",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s628546001_597d88b7277486f9a3727bd06ca99fd9fa010ebe.webp",
-          "mime": "image/webp"
-        },
-        {
-          "digest": "d05e059a651ef042463153eb666b9106f61427dfd2add80bb6153145469b9265",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s628546002_904a72033f58970c05ebcfddc834ea123ee62333.webp",
-          "mime": "image/webp"
-        },
-        {
-          "digest": "d381734ee84817d4390069c774165703d8447aef941fea12761b86e6850d54a9",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s628546003_a42f905f9782d1fbae6f2752a8a2a804502534a6.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "50b3ec612820d0c782acaa2173b8ca1baa79ef920a64b32822cf9ca6b2ee8fcf",
-          "source_url": "https://timg.humoruniv.com/thumb.php?url_enc=uafSvaVC82xIzKLE8jp_zlx2LlyPLRyhzwS78wpKuUipvjFNYjo08wfpLJZ7AlfPLJx28KiIvKLpuU97A*x0mhQXm59wVgHeU0opmhFpOlQWVgZWYlQSOgmpAJoIAhnpV0veVlVwm0*pOl9wAjT_VlQEzUHS",
-          "mime": "image/png"
-        },
-        {
-          "digest": "226d204b5d562ab33edb76f7156ed1e392206189f44a4e98be4037879d082bb1",
-          "source_url": "https://m.humoruniv.com/images/play_trans.png?tmp=3",
-          "mime": "image/png"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1431655",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431655",
       "title": "임용고시 보고왔다ㅠㅠㅠㅠ",
@@ -495,6 +449,82 @@
           "digest": "bf6812cb4943bd9e4799211b43b25d4ced495b348a9f42d3baa3e319c571e9ee",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s9f06d1001_bad86ff603262a3ab9a30d3ee921299b3a83ca13.jpg",
           "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431663",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431663",
+      "title": "근데 나 진짜 혼자 잘살줄알았어",
+      "body": "\n<p>\n\n</p><div>뭐 안 외롭다면 거짓말이고<div>15년이상을 혼자살았고</div><div>연애도 거의안..못했고 </div><div>원래 집순이기도했고 그냥 귀찮음이 더컸던것도 있는데</div><div>암튼 그냥 난 혼자 잘살고 있었거든?</div><div>직장 잘다니고 굶지않고 살고있고 직장동료들이랑도 너무잘지내고</div><div>타지에 혼자 살아도 재밌게 잘살고있다고 생각했는데</div><div>이생활 진짜 안되겠구나 라고 생각한게</div><div>교통사고 당했는데 차대차였고 내과실0이었어</div><div>근데 상대쪽 사고나고 온가족이 다와서 상대차 편드는데</div><div>난 부를사람도 없이 혼자였거든</div><div>그때 진짜 이건아니구나 싶더라…</div><div>사무치게 외로웠어</div><div><br/></div><div>그래서 바로 결심하고 오지생활 정리하고</div><div>서울와서 미친듯이 동호회나가고 모임나가고</div><div>채팅도하고 지금 결혼할 남자만남</div><div><br/></div><div>할려면 할 수있는걸 </div><div>내가 엄청 회피하고 살았었구나 싶더라 </div><div><br/></div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:08c4e4982d291b1020ec1a0b20a20879074de61185c1bc14e625c5d625864ef6\"/>\n</div>\n</div>\n</div></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "08c4e4982d291b1020ec1a0b20a20879074de61185c1bc14e625c5d625864ef6",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s8d9471001_2f1c4ce88d7468d6385c383ee7b3b1f790fde776.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431658",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431658",
+      "title": "리센느 소속사 대표 근황.jpg",
+      "body": "\n<p>\n\n</p><div><p>\n</p><div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:22e1b062c708f5cafaa7a3c15605a115afc2fd7baf7c19d85d5dd3edb2788e26\"/>\n</div>\n</div>\n</div><p></p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:9864dcc4c6ade314b77cba5b642cef8fe49c0fc22aed35017f1a3c0f388033fd\"/></p><p><b><span><br/></span></b></p><p><b><span>KGMA 베스트 프로듀서 선정</span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:84847a318a2dc7629645d0839676a37cdc058b849d412a952cb1a56238811d5f\"/></p><p><b><span><br/></span></b></p><p><b><span>직원 출동</span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:c3fb69b60c5fb453a78b7e5a70e83a93d96b590448f7259b7c347b5efa26da10\"/></p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:76ddae8507a8ee12899553d7a0d1b122025e23a1a579bdbb98d309901c20d065\"/></p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:1a88cac28ae9d3f05290958c556f0aebe0d7b85b08289f314e4dc7af24319083\"/></p><p><b><span><br/></span></b></p><p><b><span>대표소감 듣다</span></b></p><p><b><span><br/></span></b></p><p><b><span>슬슬 수도꼭지가 풀리는 파이리</span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:6bfe800c2001b5d9c169661bda7407e201091a079272d5078e14d1ab066c6a2b\"/></p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:9abc28847bd824c82a75baf2e7d1b2b389b71dbc51f54d6d4243f57ba67cd151\"/></p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:d7d8cbe479e218e438466d23d357d6150209cf869b215f0fcb9e6ae1c2101ac9\"/></p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:4e725192f586504886fbdb07043c3c66e2400d7e59ebd09974cef73b37693c8f\"/></p><p><b><span><br/></span></b></p><p><b><span>무서운건 끄떡없지만</span></b></p><p><b><span><br/></span></b></p><p><b><span>슬픈건 터지는 거제 테토녀와</span></b></p><p><b><span><br/></span></b></p><p><b><span>무서운거 슬픈거 안가리고 터지는 치바 前갸루</span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p> </p><p>\n<span>\n\n</span> <img alt=\"\" src=\"asset:139a17a3e6f94f46fe486fd8aaf8b67be5d492dc155a93ea606e7c04962587ad\"/></p><p><b><span><br/></span></b></p><p><b><span>야호</span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p><p><b><span><br/></span></b></p></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "22e1b062c708f5cafaa7a3c15605a115afc2fd7baf7c19d85d5dd3edb2788e26",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e001_90e688fa5692be07b5d1f59327842cb8f564ab5d.png",
+          "mime": "image/png"
+        },
+        {
+          "digest": "9864dcc4c6ade314b77cba5b642cef8fe49c0fc22aed35017f1a3c0f388033fd",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e002_59e496938c534d108c93ca130131cfb8b12f0e41.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "84847a318a2dc7629645d0839676a37cdc058b849d412a952cb1a56238811d5f",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e003_1801ae1bb5b7580994796eb0174b881070723d22.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "c3fb69b60c5fb453a78b7e5a70e83a93d96b590448f7259b7c347b5efa26da10",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e004_eaf04f74926a1adaef527d767ffc6dd365eccec0.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "76ddae8507a8ee12899553d7a0d1b122025e23a1a579bdbb98d309901c20d065",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e005_b1e9677bcbd61314bdcbd6227ad25f8cd596c915.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "1a88cac28ae9d3f05290958c556f0aebe0d7b85b08289f314e4dc7af24319083",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e006_adfc73d3dcfd86fa16c831bb63f69f4d76b536af.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "6bfe800c2001b5d9c169661bda7407e201091a079272d5078e14d1ab066c6a2b",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e007_d78f20300bcc54b6674e1156182a4eaf562d774e.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "9abc28847bd824c82a75baf2e7d1b2b389b71dbc51f54d6d4243f57ba67cd151",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e008_79b183da426d6e67dfdc19e2bd2f235928232ed4.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "d7d8cbe479e218e438466d23d357d6150209cf869b215f0fcb9e6ae1c2101ac9",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e009_faf46f98039dc441df7c6d587d83e625053f79ef.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "4e725192f586504886fbdb07043c3c66e2400d7e59ebd09974cef73b37693c8f",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e010_9577cb8469b9563402ceba5d37384a9ca6fe3965.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "139a17a3e6f94f46fe486fd8aaf8b67be5d492dc155a93ea606e7c04962587ad",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_e75cc4e011_6ea2c0940348fd5b712f54b9d1bd66755d6acd16.webp",
+          "mime": "image/webp"
         }
       ]
     },
