@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-07T08:57:30.524717+00:00",
+  "generated_at": "2026-11-07T09:40:36.760600+00:00",
   "videos": [
+    {
+      "video_id": "CWnOPPKSPLE",
+      "title": "[여자프로농구] 우리은행 vs 삼성생명ㅣ5분 하이라이트 (11.07)",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-07T09:23:23+00:00",
+      "url": "https://www.youtube.com/watch?v=CWnOPPKSPLE"
+    },
+    {
+      "video_id": "Oho3azn0FBs",
+      "title": "[KT위즈 vs 삼성라이온즈] 11.07(토) KS 4차전 하이라이트｜2026 신한 SOL KBO 포스트시즌｜한국시리즈 4차전｜KBO X TVING",
+      "channel_id": "UCoVz66yWHzVsXAFG8WhJK9g",
+      "channel": "KBO",
+      "published_at": "2026-11-07T09:12:16+00:00",
+      "url": "https://www.youtube.com/watch?v=Oho3azn0FBs"
+    },
+    {
+      "video_id": "J1SWDhcnhAg",
+      "title": "삼성 이승민의 9회 초 아웃 카운트 세 개를 만들며 팀의 승리를 지킵니다! | KS4_KT vs 삼성 | 11.7 | 크보모먼트 | KBO 야구 하이라이트",
+      "channel_id": "UCoVz66yWHzVsXAFG8WhJK9g",
+      "channel": "KBO",
+      "published_at": "2026-11-07T08:59:36+00:00",
+      "url": "https://www.youtube.com/watch?v=J1SWDhcnhAg"
+    },
     {
       "video_id": "AaL35HniQTY",
       "title": "삼성 마운드의 미래! 장찬희의 아웃 카운트 모음.zip | KS4_KT vs 삼성 | 11.7 | 크보모먼트 | KBO 야구 하이라이트",
@@ -96,14 +120,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-05T05:00:38+00:00",
       "url": "https://www.youtube.com/watch?v=jumqoFP0P6E"
-    },
-    {
-      "video_id": "FYK1oDWFh7U",
-      "title": "[26/27 UCL] 페네르바체 vs 리버풀 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-05T05:00:37+00:00",
-      "url": "https://www.youtube.com/watch?v=FYK1oDWFh7U"
     }
   ]
 }
