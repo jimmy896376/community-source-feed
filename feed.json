@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T20:43:36.768889+00:00",
+  "generated_at": "2026-11-08T21:42:40.330439+00:00",
   "posts": [
     {
       "source_id": "hu:1431682",
@@ -86,19 +86,6 @@
         {
           "digest": "06d3620942f41c91e75ac322c0f07374f67b1d49d5a6d41e80734c2a92c4cd39",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sda9792006_74c4995508829c50a4a31e5450c2e0a15e811019.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1431760",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431760",
-      "title": "온라인 힘자랑이 젤 의미없지",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:95f226c7d0622faed4f93e922dc26bad66ed3bd0d7318ead2328923add973633\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t명짤있잖음\n\n</p>\n",
-      "images": [
-        {
-          "digest": "95f226c7d0622faed4f93e922dc26bad66ed3bd0d7318ead2328923add973633",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w323984001_9cb9d14d15db9a1dab779c5ced21160fe614e47d.jpg",
           "mime": "image/jpeg"
         }
       ]
@@ -195,6 +182,19 @@
           "digest": "578a8e6c65926243e1984d8c5ef02026d3bde33a7b582a68ab8d5fc149edea34",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s9631d7001_60fde95ab61ea196788a58314fd6349afaed16cf.jpg",
           "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1431772",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1431772",
+      "title": "직장과 눈문을 병행하는 방법 알려드림",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:1249648384bb6a3313cd98e639979655494b02cda8c867db8d9fa660f1b90d67\"/></div></div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "1249648384bb6a3313cd98e639979655494b02cda8c867db8d9fa660f1b90d67",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s3ae899001_8a958b530618934248a10cbcacb4452651fa0e2d.webp",
+          "mime": "image/webp"
         }
       ]
     },
