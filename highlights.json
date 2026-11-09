@@ -1,13 +1,69 @@
 {
-  "generated_at": "2026-11-08T22:43:58.573875+00:00",
+  "generated_at": "2026-11-09T08:33:04.900158+00:00",
   "videos": [
     {
-      "video_id": "x2A-VZYuYCg",
-      "title": "[프리미어리그] 10R 크리스탈 팰리스 vs 리버풀 2분 하이라이트",
-      "channel_id": "UCnBht7BrOx-A328KFXgysqQ",
-      "channel": "쿠팡플레이 스포츠",
-      "published_at": "2026-11-08T20:00:36+00:00",
-      "url": "https://www.youtube.com/watch?v=x2A-VZYuYCg"
+      "video_id": "I_7gA1-bclI",
+      "title": "[26/27 세리에A] 11R 인터 밀란 vs 코모 3분 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-09T05:00:31+00:00",
+      "url": "https://www.youtube.com/watch?v=I_7gA1-bclI"
+    },
+    {
+      "video_id": "jzJZbdWn23g",
+      "title": "[26/27 세리에A] 11R 나폴리 vs 라치오 3분 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-09T05:00:18+00:00",
+      "url": "https://www.youtube.com/watch?v=jzJZbdWn23g"
+    },
+    {
+      "video_id": "dY-RkRu3MpA",
+      "title": "HEAT at KINGS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-09T04:58:20+00:00",
+      "url": "https://www.youtube.com/watch?v=dY-RkRu3MpA"
+    },
+    {
+      "video_id": "BsDNa_7PTnc",
+      "title": "PELICANS at CLIPPERS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-09T04:53:45+00:00",
+      "url": "https://www.youtube.com/watch?v=BsDNa_7PTnc"
+    },
+    {
+      "video_id": "Axe6ICibvU4",
+      "title": "CELTICS at BUCKS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-09T04:23:40+00:00",
+      "url": "https://www.youtube.com/watch?v=Axe6ICibvU4"
+    },
+    {
+      "video_id": "x4SzsIG5nwo",
+      "title": "NETS at MAVERICKS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-09T03:27:19+00:00",
+      "url": "https://www.youtube.com/watch?v=x4SzsIG5nwo"
+    },
+    {
+      "video_id": "shKl4TLb28Y",
+      "title": "LAKERS at PISTONS | FULL GAME HIGHLIGHTS | November 8, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-09T02:14:01+00:00",
+      "url": "https://www.youtube.com/watch?v=shKl4TLb28Y"
+    },
+    {
+      "video_id": "emETzRdhMXU",
+      "title": "2026 Payton Tolle Highlights (171 strikeouts in STRONG rookie season for Red Sox lefty!)",
+      "channel_id": "UCoLrcjPV5PbUrUyXq5mjc_A",
+      "channel": "MLB",
+      "published_at": "2026-11-09T00:00:30+00:00",
+      "url": "https://www.youtube.com/watch?v=emETzRdhMXU"
     },
     {
       "video_id": "UnqZFfKQcIc",
@@ -16,14 +72,6 @@
       "channel": "MLB",
       "published_at": "2026-11-08T20:00:27+00:00",
       "url": "https://www.youtube.com/watch?v=UnqZFfKQcIc"
-    },
-    {
-      "video_id": "z-3ngxuWtto",
-      "title": "[프리미어리그] 10R 선덜랜드 vs 첼시 2분 하이라이트",
-      "channel_id": "UCnBht7BrOx-A328KFXgysqQ",
-      "channel": "쿠팡플레이 스포츠",
-      "published_at": "2026-11-08T20:00:11+00:00",
-      "url": "https://www.youtube.com/watch?v=z-3ngxuWtto"
     },
     {
       "video_id": "BsXfdGk7fpo",
@@ -72,38 +120,6 @@
       "channel": "KBO",
       "published_at": "2026-11-08T07:03:24+00:00",
       "url": "https://www.youtube.com/watch?v=k8nA8cdtgXo"
-    },
-    {
-      "video_id": "MSpWtJ2rCUY",
-      "title": "3회 말, 삼성 구자욱의 동점, 디아즈의 역전 그리고 김영웅의 추가 적시타로 빅이닝 완성! | KS5_KT vs 삼성 | 11.8 | 크보모먼트 | KBO 야구 하이라이트",
-      "channel_id": "UCoVz66yWHzVsXAFG8WhJK9g",
-      "channel": "KBO",
-      "published_at": "2026-11-08T06:57:56+00:00",
-      "url": "https://www.youtube.com/watch?v=MSpWtJ2rCUY"
-    },
-    {
-      "video_id": "_UX-g0axVCQ",
-      "title": "EXTENDED: MAGIC at WARRIORS | FULL GAME HIGHLIGHTS | November 7, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-08T06:36:52+00:00",
-      "url": "https://www.youtube.com/watch?v=_UX-g0axVCQ"
-    },
-    {
-      "video_id": "nUVK3PN4f8s",
-      "title": "EXTENDED: KNICKS at CAVALIERS | FULL GAME HIGHLIGHTS | November 7, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-08T06:08:47+00:00",
-      "url": "https://www.youtube.com/watch?v=nUVK3PN4f8s"
-    },
-    {
-      "video_id": "RSMUC3aHIIk",
-      "title": "SPURS at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | November 7, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-08T05:56:22+00:00",
-      "url": "https://www.youtube.com/watch?v=RSMUC3aHIIk"
     },
     {
       "video_id": "cMU1UGIMoYA",
