@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-11T09:52:26.095438+00:00",
+  "generated_at": "2026-11-11T14:10:27.605429+00:00",
   "videos": [
+    {
+      "video_id": "RH4_Hn7PSLg",
+      "title": "[여자프로농구] 신한은행 vs 삼성생명ㅣ5분 하이라이트 (11.11)",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-11T12:46:03+00:00",
+      "url": "https://www.youtube.com/watch?v=RH4_Hn7PSLg"
+    },
     {
       "video_id": "WtmaQ-mk6Ls",
       "title": "THUNDER at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | November 10, 2026",
@@ -64,14 +72,6 @@
       "channel": "KBO",
       "published_at": "2026-11-08T10:07:07+00:00",
       "url": "https://www.youtube.com/watch?v=TmTq14xEoh4"
-    },
-    {
-      "video_id": "CWnOPPKSPLE",
-      "title": "[여자프로농구] 우리은행 vs 삼성생명ㅣ5분 하이라이트 (11.07)",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-07T09:23:23+00:00",
-      "url": "https://www.youtube.com/watch?v=CWnOPPKSPLE"
     }
   ]
 }
