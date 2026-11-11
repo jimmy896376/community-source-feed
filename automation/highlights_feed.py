@@ -2,9 +2,10 @@
 """Collect major-match candidates from official sports-rights-holder YouTube channels."""
 import json
 import re
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 CHANNELS = {
@@ -60,11 +61,17 @@ def is_major_highlight(title):
 
 def collect():
     videos = {}
+    failed_channels = set()
     for channel_id, channel_name in CHANNELS.items():
         url = "https://www.youtube.com/feeds/videos.xml?channel_id=" + channel_id
         request = urllib.request.Request(url, headers={"User-Agent": "NUDETV-Highlight-Feed/1.0"})
-        with urllib.request.urlopen(request, timeout=20) as response:
-            root = ET.fromstring(response.read())
+        try:
+            with urllib.request.urlopen(request, timeout=20) as response:
+                root = ET.fromstring(response.read())
+        except (urllib.error.URLError, TimeoutError, ET.ParseError) as error:
+            failed_channels.add(channel_id)
+            print("[Feed] channel failed %s: %s" % (channel_name, error), flush=True)
+            continue
         for entry in root.findall(ATOM + "entry"):
             raw_id = entry.findtext("{http://www.youtube.com/xml/schemas/2015}videoId", "")
             title = entry.findtext(ATOM + "title", "").strip()
@@ -79,6 +86,22 @@ def collect():
                 "published_at": published,
                 "url": "https://www.youtube.com/watch?v=" + raw_id,
             }
+    if failed_channels:
+        try:
+            previous = json.loads(Path("highlights.json").read_text()).get("videos", [])
+        except (OSError, ValueError):
+            previous = []
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=48)
+        for item in previous:
+            if item.get("channel_id") not in failed_channels or item.get("video_id") in videos:
+                continue
+            try:
+                published = datetime.fromisoformat(item["published_at"].replace("Z", "+00:00"))
+                if published.tzinfo is None or published < cutoff:
+                    continue
+            except (KeyError, TypeError, ValueError):
+                continue
+            videos[item["video_id"]] = item
     ordered = sorted(videos.values(), key=lambda item: item["published_at"], reverse=True)
     return {"generated_at": datetime.now(timezone.utc).isoformat(), "videos": ordered[:100]}
 
