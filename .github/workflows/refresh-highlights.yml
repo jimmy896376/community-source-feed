@@ -25,6 +25,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - run: python automation/test_highlights_feed.py
       - run: python automation/highlights_feed.py
       - name: Save changed candidates
         run: |
