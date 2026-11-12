@@ -1,21 +1,29 @@
 {
-  "generated_at": "2026-11-12T06:07:45.444225+00:00",
+  "generated_at": "2026-11-12T08:20:35.811329+00:00",
   "videos": [
     {
-      "video_id": "KRV2oVjRP0A",
-      "title": "CELTICS at RAPTORS | FULL GAME HIGHLIGHTS | November 11, 2026",
+      "video_id": "sSE9eMw5qkw",
+      "title": "EXTENDED: CAVALIERS at KNICKS | FULL GAME HIGHLIGHTS | November 11, 2026",
       "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
       "channel": "NBA",
-      "published_at": "2026-11-12T03:28:57+00:00",
-      "url": "https://www.youtube.com/watch?v=KRV2oVjRP0A"
+      "published_at": "2026-11-12T05:56:51+00:00",
+      "url": "https://www.youtube.com/watch?v=sSE9eMw5qkw"
     },
     {
-      "video_id": "NLRiKoJ9Al0",
-      "title": "CAVALIERS at KNICKS | FULL GAME HIGHLIGHTS | November 11, 2026",
+      "video_id": "YH0t29hJUy8",
+      "title": "THUNDER at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | November 11, 2026",
       "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
       "channel": "NBA",
-      "published_at": "2026-11-12T02:54:48+00:00",
-      "url": "https://www.youtube.com/watch?v=NLRiKoJ9Al0"
+      "published_at": "2026-11-12T05:51:17+00:00",
+      "url": "https://www.youtube.com/watch?v=YH0t29hJUy8"
+    },
+    {
+      "video_id": "H5Fp_le80mw",
+      "title": "WARRIORS at ROCKETS | FULL GAME HIGHLIGHTS | November 11, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-12T05:31:37+00:00",
+      "url": "https://www.youtube.com/watch?v=H5Fp_le80mw"
     },
     {
       "video_id": "RH4_Hn7PSLg",
@@ -24,6 +32,22 @@
       "channel": "SPOTV",
       "published_at": "2026-11-11T12:46:03+00:00",
       "url": "https://www.youtube.com/watch?v=RH4_Hn7PSLg"
+    },
+    {
+      "video_id": "I_7gA1-bclI",
+      "title": "[26/27 세리에A] 11R 인터 밀란 vs 코모 3분 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-09T05:00:31+00:00",
+      "url": "https://www.youtube.com/watch?v=I_7gA1-bclI"
+    },
+    {
+      "video_id": "jzJZbdWn23g",
+      "title": "[26/27 세리에A] 11R 나폴리 vs 라치오 3분 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-09T05:00:18+00:00",
+      "url": "https://www.youtube.com/watch?v=jzJZbdWn23g"
     }
   ]
 }
