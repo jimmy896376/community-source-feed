@@ -19,11 +19,13 @@ CHANNELS = {
     "UCoLrcjPV5PbUrUyXq5mjc_A": "MLB",
     "UCak5ZEX4BjijJcf7fdppuIQ": "K League",
     "UC-QIqPAffXGJVgy_tnn145w": "KOVO",
+    "UCyGa1YEx9ST66rYrJTGIKOw": "UEFA",
+    "UCpcTrCXblq78GZrTUTLWeBw": "FIFA",
 }
 ATOM = "{http://www.w3.org/2005/Atom}"
 VIDEO_ID = re.compile(r"^[A-Za-z0-9_-]{11}$")
 HIGHLIGHT = re.compile(r"하이라이트|highlights?", re.I)
-MAJOR_EVENT = re.compile(r"한국시리즈|Korean Series|NBA (?:Finals|Cup|Playoffs|Postseason)", re.I)
+MAJOR_EVENT = re.compile(r"한국시리즈|Korean Series|NBA (?:Finals|Cup|Playoffs|Postseason)|네이션스리그|Nations League|World Cup|FIFA World Cup|UEFA Euro|Euro 20\\d{2}|Copa America|Copa América|Asian Cup|아시안컵|Africa Cup of Nations|AFCON|Gold Cup|국가대표|International Friendly|International Match|National Team", re.I)
 # Curated popular teams. Candidate title must name one unless it is a major final/tournament.
 MAJOR_TEAMS = (
     # Football
