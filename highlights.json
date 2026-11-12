@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T01:16:43.472256+00:00",
+  "generated_at": "2026-11-12T02:55:57.970903+00:00",
   "videos": [
     {
       "video_id": "RH4_Hn7PSLg",
@@ -24,30 +24,6 @@
       "channel": "NBA",
       "published_at": "2026-11-11T06:02:54+00:00",
       "url": "https://www.youtube.com/watch?v=FuNJ6VVVQxY"
-    },
-    {
-      "video_id": "I_7gA1-bclI",
-      "title": "[26/27 세리에A] 11R 인터 밀란 vs 코모 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-09T05:00:31+00:00",
-      "url": "https://www.youtube.com/watch?v=I_7gA1-bclI"
-    },
-    {
-      "video_id": "jzJZbdWn23g",
-      "title": "[26/27 세리에A] 11R 나폴리 vs 라치오 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-09T05:00:18+00:00",
-      "url": "https://www.youtube.com/watch?v=jzJZbdWn23g"
-    },
-    {
-      "video_id": "BsXfdGk7fpo",
-      "title": "(풀버전) 2026 KBO 한국시리즈 우승팀! 삼성라이온즈의 우승 세리머니와 시상식 순간들! | KS5_KT vs 삼성 | 11.8 | 크보모먼트 | KBO 야구 하이라이트",
-      "channel_id": "UCoVz66yWHzVsXAFG8WhJK9g",
-      "channel": "KBO",
-      "published_at": "2026-11-08T12:05:34+00:00",
-      "url": "https://www.youtube.com/watch?v=BsXfdGk7fpo"
     }
   ]
 }
