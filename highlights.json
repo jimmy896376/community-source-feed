@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-12T18:59:25.458666+00:00",
+  "generated_at": "2026-11-12T19:33:32.523420+00:00",
   "videos": [
+    {
+      "video_id": "LwP0TSz9zuE",
+      "title": "Haaland Storms Into Round Of 32 | Norway 3-2 Senegal | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-12T17:30:06+00:00",
+      "url": "https://www.youtube.com/watch?v=LwP0TSz9zuE"
+    },
     {
       "video_id": "2g6HWBLnXkk",
       "title": "Luka & The Lakers Are ROLLING 👀 | 7-Game Win Streak Highlights",
@@ -18,20 +26,20 @@
       "url": "https://www.youtube.com/watch?v=THoLkoK6iIw"
     },
     {
+      "video_id": "gtwGSfMYJJo",
+      "title": "Baena Bags Against Uruguay As Spain Top Group | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-12T11:30:28+00:00",
+      "url": "https://www.youtube.com/watch?v=gtwGSfMYJJo"
+    },
+    {
       "video_id": "sSE9eMw5qkw",
       "title": "EXTENDED: CAVALIERS at KNICKS | FULL GAME HIGHLIGHTS | November 11, 2026",
       "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
       "channel": "NBA",
       "published_at": "2026-11-12T05:56:51+00:00",
       "url": "https://www.youtube.com/watch?v=sSE9eMw5qkw"
-    },
-    {
-      "video_id": "YH0t29hJUy8",
-      "title": "THUNDER at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | November 11, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-12T05:51:17+00:00",
-      "url": "https://www.youtube.com/watch?v=YH0t29hJUy8"
     },
     {
       "video_id": "RH4_Hn7PSLg",
@@ -56,6 +64,30 @@
       "channel": "SPOTV",
       "published_at": "2026-11-09T05:00:18+00:00",
       "url": "https://www.youtube.com/watch?v=jzJZbdWn23g"
+    },
+    {
+      "video_id": "OFrsybPMGSw",
+      "title": "Japan vs Nigeria Highlights | FIFA U-17 Women's World Cup 2026™",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-07T21:56:32+00:00",
+      "url": "https://www.youtube.com/watch?v=OFrsybPMGSw"
+    },
+    {
+      "video_id": "nbJzleYMVH0",
+      "title": "DPR Korea vs Brazil Highlights | FIFA U-17 Women's World Cup 2026™",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-07T17:45:32+00:00",
+      "url": "https://www.youtube.com/watch?v=nbJzleYMVH0"
+    },
+    {
+      "video_id": "gCsb63pIvIQ",
+      "title": "UNBEATEN Cabo Verde Progress To Knockouts | Saudi Arabia Bow Out | 2026 World Cup Match Highlights",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-07T12:30:15+00:00",
+      "url": "https://www.youtube.com/watch?v=gCsb63pIvIQ"
     }
   ]
 }
