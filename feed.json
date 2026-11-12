@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:56:05.706957+00:00",
+  "generated_at": "2026-11-12T21:53:16.560984+00:00",
   "posts": [
     {
       "source_id": "hu:1432184",
@@ -59,32 +59,6 @@
         {
           "digest": "92e17bffd4cf0879c9b812d226737c2341104f8a8b8296ab9fd0f9c3447ae14a",
           "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wd52860001_110527b96a360df8844ea7bf35418f5d2b009467.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1432250",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1432250",
-      "title": "내가 본 최고의 정석적인 사과문.JPG",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:2d5f30a566f90d13f46d5b983710d5b3bfb7c236155606970244415fe634e169\"/>\n</div>\n</div>\n</div>\n<p>\n\n</p><div><div>ㅋㅋ</div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "2d5f30a566f90d13f46d5b983710d5b3bfb7c236155606970244415fe634e169",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wa9277b001_94c3654e54c86f36f0fd83b1859e881fbed3ca76.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
-      "source_id": "hu:1432249",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1432249",
-      "title": "전기기사 탄생",
-      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:c40053b37cfa1fb8402c3f191c9efb1da99e983e8850922d273ebef481be5996\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t삐약!\n\n</p>\n",
-      "images": [
-        {
-          "digest": "c40053b37cfa1fb8402c3f191c9efb1da99e983e8850922d273ebef481be5996",
-          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_we3db25001_b88bbdc7dc7073ef0114388f500901f90f5c6338.jpg",
           "mime": "image/jpeg"
         }
       ]
@@ -228,6 +202,32 @@
           "digest": "d2ed1c60481aceedb717a416176606c85564f6cf9d45110df32a20a8ed6bcfe0",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s3b94dd008_8019d85e1d5bc67e5efa024b20075ea33349d685.png",
           "mime": "image/png"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1432264",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1432264",
+      "title": "아이헤브어 펜- 아이헤브어 보쥐- 흐앙💕 보쥐-펜",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:7658d0ea3e017db0d31ba61d2bf854b0a67719cc03f4a5bdc931c0fee5907db4\"/>\n</div>\n</div>\n</div>\n<p>\n\n</p><div>좋은 아침입니다.\n</div>\n<p></p>\n",
+      "images": [
+        {
+          "digest": "7658d0ea3e017db0d31ba61d2bf854b0a67719cc03f4a5bdc931c0fee5907db4",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_wfd46cc001_c5853286370a6428eaf12f70462ea9d20fd73a80.jpg",
+          "mime": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1432270",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1432270",
+      "title": "겨울에 쿠팡 가면 극단적인 생각 3가지 들음",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:f1b585fcd0b84a9a86ff1bc3cca4ba79a9ad5107b9f8ea850a7bb947bdaa27c1\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t실내에 있다해도 상차때매 벽이 뚫려있어서<br/>\n그냥 거의 밖이랑 온도 비슷함 오늘도 입김나옴<br/>\n<br/>\n가만히 서있으면 와 추워 죽겠다<br/>\n바빠지면 땀나고 와 더워 죽겠다<br/>\n그러다가 좀 지나면 그냥 죽겠네..싶음\n\n</p>\n",
+      "images": [
+        {
+          "digest": "f1b585fcd0b84a9a86ff1bc3cca4ba79a9ad5107b9f8ea850a7bb947bdaa27c1",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/a_w19911f001_b04164cdb2466c3819ec39f9544a772a3d1803ef.jpg",
+          "mime": "image/jpeg"
         }
       ]
     }
