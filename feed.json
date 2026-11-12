@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:59:23.350351+00:00",
+  "generated_at": "2026-11-12T19:59:07.207046+00:00",
   "posts": [
     {
       "source_id": "hu:1432184",
@@ -33,15 +33,20 @@
       ]
     },
     {
-      "source_id": "hu:1432245",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1432245",
-      "title": "요즘 ai 안경 근황",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:5d6f94395441a4b258ee6d7e48eca8f6ad7aa8eda11739251d708525bbe84e37\"/>\n</div>\n</div>\n</div></div><div><br/></div><div><br/></div><div>진짜 그냥 안경이랑 비슷하네</div><div><br/></div><div>투명테도 가능하고..</div><div><br/></div><div>이건 감독관들도 의심 안 할듯..</div>\n</div>\n<p></p>\n",
+      "source_id": "hu:1432153",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&page=0&number=1432153&from=best",
+      "title": "나폴리맛피아의 다이어트 근황.jpg",
+      "body": "\n<p>\n\n</p><div>\n<div>\n<span>\n\n</span> <img alt=\"\" src=\"asset:ce06842b88d497a6a6b1f7c5e856f4f1ed38f3cde107075e0c4a3ff37acbc504\"/></div><div><br/></div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:1013707bce6f3c58981a89341d851d04243f6cd1ee3d367c299f6157a7f25eb8\"/>\n</div>\n</div>\n</div></div><div><br/></div></div>\n<p></p>\n",
       "images": [
         {
-          "digest": "5d6f94395441a4b258ee6d7e48eca8f6ad7aa8eda11739251d708525bbe84e37",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s308da8001_cf893dcc9fc67ea29eba46199b416a82961ead31.png",
-          "mime": "image/png"
+          "digest": "ce06842b88d497a6a6b1f7c5e856f4f1ed38f3cde107075e0c4a3ff37acbc504",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s59206a001_5dfedf15b79a10d11f2fb99c0a99a91821c0f695.webp",
+          "mime": "image/webp"
+        },
+        {
+          "digest": "1013707bce6f3c58981a89341d851d04243f6cd1ee3d367c299f6157a7f25eb8",
+          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_s59206a002_3941d97fadb8ffe08e688067de93e9f5555695b9.jpg",
+          "mime": "image/jpeg"
         }
       ]
     },
