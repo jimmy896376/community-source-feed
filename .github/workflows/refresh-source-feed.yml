@@ -1,6 +1,9 @@
 name: Refresh public source feed
 
 on:
+  push:
+    paths:
+      - '.github/workflows/refresh-source-feed.yml'
   schedule:
     - cron: '10 * * * *'
   workflow_dispatch:
@@ -14,7 +17,7 @@ concurrency:
 
 jobs:
   refresh:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
