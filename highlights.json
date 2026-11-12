@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-11-12T02:55:57.970903+00:00",
+  "generated_at": "2026-11-12T03:47:46.525558+00:00",
   "videos": [
+    {
+      "video_id": "KRV2oVjRP0A",
+      "title": "CELTICS at RAPTORS | FULL GAME HIGHLIGHTS | November 11, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-12T03:28:57+00:00",
+      "url": "https://www.youtube.com/watch?v=KRV2oVjRP0A"
+    },
+    {
+      "video_id": "NLRiKoJ9Al0",
+      "title": "CAVALIERS at KNICKS | FULL GAME HIGHLIGHTS | November 11, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-12T02:54:48+00:00",
+      "url": "https://www.youtube.com/watch?v=NLRiKoJ9Al0"
+    },
     {
       "video_id": "RH4_Hn7PSLg",
       "title": "[여자프로농구] 신한은행 vs 삼성생명ㅣ5분 하이라이트 (11.11)",
@@ -8,22 +24,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-11T12:46:03+00:00",
       "url": "https://www.youtube.com/watch?v=RH4_Hn7PSLg"
-    },
-    {
-      "video_id": "WtmaQ-mk6Ls",
-      "title": "THUNDER at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | November 10, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-11T07:00:08+00:00",
-      "url": "https://www.youtube.com/watch?v=WtmaQ-mk6Ls"
-    },
-    {
-      "video_id": "FuNJ6VVVQxY",
-      "title": "EXTENDED: CELTICS at 76ERS | FULL GAME HIGHLIGHTS | November 10, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-11T06:02:54+00:00",
-      "url": "https://www.youtube.com/watch?v=FuNJ6VVVQxY"
     }
   ]
 }
