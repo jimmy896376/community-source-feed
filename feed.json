@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:52:51.709885+00:00",
+  "generated_at": "2026-11-13T22:51:09.376874+00:00",
   "posts": [
     {
       "source_id": "hu:1432304",
@@ -170,24 +170,6 @@
       ]
     },
     {
-      "source_id": "hu:1432396",
-      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1432396",
-      "title": "엔비디아 황회장 반전",
-      "body": "\n<p>\n\n</p><div>\n<div>\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:a4835a6dacdd6fc565c25a0940eeca79ef70439fba388dd81cb29b1900a48d61\"/>\n</div>\n</div>\n</div></div>\n<div>\n<div>\n<div>\n<div>\n\n<img alt=\"\" src=\"asset:d58a00f055bd3049e34a43b58af33bd136c932fb2d16a7174058e2d7b56f16e5\"/>\n</div>\n</div>\n</div></div><div><br/></div><div>FBI에서 최소 1년</div><div>중국 유령회사쪽은 최소3년 털었는데</div><div>증거가 안나옴 ㄷㄷ</div><div><br/></div></div>\n<p></p>\n",
-      "images": [
-        {
-          "digest": "a4835a6dacdd6fc565c25a0940eeca79ef70439fba388dd81cb29b1900a48d61",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sfd942d001_e064411c20f428f31195184278d57aed728abbcb.jpg",
-          "mime": "image/jpeg"
-        },
-        {
-          "digest": "d58a00f055bd3049e34a43b58af33bd136c932fb2d16a7174058e2d7b56f16e5",
-          "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sfd942d002_61eb823fa36bad8d83d6252742573c1b86ed2d6c.jpg",
-          "mime": "image/jpeg"
-        }
-      ]
-    },
-    {
       "source_id": "hu:1432400",
       "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1432400",
       "title": "놀이터에 들깨 말려놓으신 주민분",
@@ -247,6 +229,19 @@
         {
           "digest": "4cb6a907a4dae01d00069a14959a3b84ce5f98423f3d4f634a6b20b2bd0f6e5f",
           "source_url": "https://down.humoruniv.com//hwiparambbs/data/editor/pdswait/e_sdecd09005_ac70376192876f592b165e461ead98d44c1f21a9.webp",
+          "mime": "image/webp"
+        }
+      ]
+    },
+    {
+      "source_id": "hu:1432409",
+      "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1432409",
+      "title": "도서관에서ㅅㅅ 하는거 봄",
+      "body": "\n<div>\n<div>\n\n\n\n<div>\n\n<img alt=\"\" src=\"asset:6041f7bc8be7b63fa46f8f95fc9f7e5be8eb341da70ac54f3dde318cc7ea952e\"/>\n</div>\n</div>\n</div>\n<p>\n\n\t낚고 싶으면 추천 ㄱㄱ\n\n</p>\n",
+      "images": [
+        {
+          "digest": "6041f7bc8be7b63fa46f8f95fc9f7e5be8eb341da70ac54f3dde318cc7ea952e",
+          "source_url": "https://down.humoruniv.com/hwiparambbs/data/pds/hu_1794601338_6711930135.webp",
           "mime": "image/webp"
         }
       ]
