@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-11-13T02:53:26.319300+00:00",
+  "generated_at": "2026-11-13T03:57:59.312980+00:00",
   "videos": [
+    {
+      "video_id": "a917kl3-0Qo",
+      "title": "MAVERICKS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | November 12, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-13T03:37:08+00:00",
+      "url": "https://www.youtube.com/watch?v=a917kl3-0Qo"
+    },
+    {
+      "video_id": "BfKYY2IJ3Oc",
+      "title": "RAPTORS at 76ERS | FULL GAME HIGHLIGHTS | November 12, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-13T02:45:32+00:00",
+      "url": "https://www.youtube.com/watch?v=BfKYY2IJ3Oc"
+    },
     {
       "video_id": "KX-Cx9r-t_0",
       "title": "2026 Chris Sale Highlights (NINTH season with 200+ strikeouts for the Braves ace!)",
@@ -18,22 +34,6 @@
       "url": "https://www.youtube.com/watch?v=LwP0TSz9zuE"
     },
     {
-      "video_id": "2g6HWBLnXkk",
-      "title": "Luka & The Lakers Are ROLLING 👀 | 7-Game Win Streak Highlights",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-12T13:00:01+00:00",
-      "url": "https://www.youtube.com/watch?v=2g6HWBLnXkk"
-    },
-    {
-      "video_id": "THoLkoK6iIw",
-      "title": "Wemby & The Spurs Can’t Be Stopped 👀 | 10-Game Win Streak Highlights",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-12T12:00:32+00:00",
-      "url": "https://www.youtube.com/watch?v=THoLkoK6iIw"
-    },
-    {
       "video_id": "gtwGSfMYJJo",
       "title": "Baena Bags Against Uruguay As Spain Top Group | 2026 World Cup EXTENDED HIGHLIGHTS",
       "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
@@ -48,6 +48,22 @@
       "channel": "SPOTV",
       "published_at": "2026-11-11T12:46:03+00:00",
       "url": "https://www.youtube.com/watch?v=RH4_Hn7PSLg"
+    },
+    {
+      "video_id": "OFrsybPMGSw",
+      "title": "Japan vs Nigeria Highlights | FIFA U-17 Women's World Cup 2026™",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-07T21:56:32+00:00",
+      "url": "https://www.youtube.com/watch?v=OFrsybPMGSw"
+    },
+    {
+      "video_id": "nbJzleYMVH0",
+      "title": "DPR Korea vs Brazil Highlights | FIFA U-17 Women's World Cup 2026™",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-07T17:45:32+00:00",
+      "url": "https://www.youtube.com/watch?v=nbJzleYMVH0"
     }
   ]
 }
