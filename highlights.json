@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-14T21:43:05.690829+00:00",
+  "generated_at": "2026-11-14T22:30:31.110161+00:00",
   "videos": [
+    {
+      "video_id": "ZJBl1Mzbf9U",
+      "title": "GOALS GALORE | New Zealand 1-5 Belgium | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-14T21:30:22+00:00",
+      "url": "https://www.youtube.com/watch?v=ZJBl1Mzbf9U"
+    },
     {
       "video_id": "evs534bh0c0",
       "title": "Messi's First World Cup Hat Trick | Argentina 3-0 Algeria | 2026 World Cup EXTENDED HIGHLIGHTS",
@@ -128,6 +136,14 @@
       "channel": "SPOTV",
       "published_at": "2026-11-13T05:00:13+00:00",
       "url": "https://www.youtube.com/watch?v=uQ1GOGOenyc"
+    },
+    {
+      "video_id": "LwP0TSz9zuE",
+      "title": "Haaland Storms Into Round Of 32 | Norway 3-2 Senegal | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-12T17:30:06+00:00",
+      "url": "https://www.youtube.com/watch?v=LwP0TSz9zuE"
     }
   ]
 }
