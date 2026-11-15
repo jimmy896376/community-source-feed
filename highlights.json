@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T04:59:35.012755+00:00",
+  "generated_at": "2026-11-15T05:47:36.414935+00:00",
   "videos": [
     {
       "video_id": "ZJBl1Mzbf9U",
@@ -104,38 +104,6 @@
       "channel": "FIFA",
       "published_at": "2026-11-13T06:30:28+00:00",
       "url": "https://www.youtube.com/watch?v=xT3zd9KZHjQ"
-    },
-    {
-      "video_id": "xqRgkPMVNII",
-      "title": "[26/27 네이션스리그] 이탈리아 vs 프랑스 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-13T05:00:26+00:00",
-      "url": "https://www.youtube.com/watch?v=xqRgkPMVNII"
-    },
-    {
-      "video_id": "N0VOqImR-SI",
-      "title": "[26/27 네이션스리그] 튀르키예 vs 벨기에 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-13T05:00:25+00:00",
-      "url": "https://www.youtube.com/watch?v=N0VOqImR-SI"
-    },
-    {
-      "video_id": "uhFq4Ih4-70",
-      "title": "[26/27 네이션스리그] 잉글랜드 vs 크로아티아 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-13T05:00:21+00:00",
-      "url": "https://www.youtube.com/watch?v=uhFq4Ih4-70"
-    },
-    {
-      "video_id": "uQ1GOGOenyc",
-      "title": "[26/27 네이션스리그] 체코 vs 스페인 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-13T05:00:13+00:00",
-      "url": "https://www.youtube.com/watch?v=uQ1GOGOenyc"
     }
   ]
 }
