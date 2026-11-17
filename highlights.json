@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-11-17T09:11:18.575686+00:00",
+  "generated_at": "2026-11-17T17:28:13.957817+00:00",
   "videos": [
+    {
+      "video_id": "ueM2K3qijg8",
+      "title": "[축구국가대표팀 친선경기] 카타르 vs 대한민국 2분 하이라이트",
+      "channel_id": "UCnBht7BrOx-A328KFXgysqQ",
+      "channel": "쿠팡플레이 스포츠",
+      "published_at": "2026-11-17T17:02:51+00:00",
+      "url": "https://www.youtube.com/watch?v=ueM2K3qijg8"
+    },
+    {
+      "video_id": "jSXIFCqJLyM",
+      "title": "[U-21 축구국가대표팀 친선경기] 대한민국 vs 멕시코 풀 하이라이트",
+      "channel_id": "UCnBht7BrOx-A328KFXgysqQ",
+      "channel": "쿠팡플레이 스포츠",
+      "published_at": "2026-11-17T15:00:27+00:00",
+      "url": "https://www.youtube.com/watch?v=jSXIFCqJLyM"
+    },
+    {
+      "video_id": "qWHezATF5lE",
+      "title": "[U-21 축구국가대표팀 친선경기] 대한민국 vs 멕시코 2분 하이라이트",
+      "channel_id": "UCnBht7BrOx-A328KFXgysqQ",
+      "channel": "쿠팡플레이 스포츠",
+      "published_at": "2026-11-17T13:30:38+00:00",
+      "url": "https://www.youtube.com/watch?v=qWHezATF5lE"
+    },
+    {
+      "video_id": "-sotY1wmm8M",
+      "title": "Messi Double! | Argentina v Austria | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-17T13:30:24+00:00",
+      "url": "https://www.youtube.com/watch?v=-sotY1wmm8M"
+    },
     {
       "video_id": "R3a-p02vsKs",
       "title": "Congo DR Stun Portugal In Thrilling Opener | 2026 World Cup EXTENDED HIGHLIGHTS",
@@ -64,14 +96,6 @@
       "channel": "NBA",
       "published_at": "2026-11-17T03:22:09+00:00",
       "url": "https://www.youtube.com/watch?v=cnD8p6RBDsI"
-    },
-    {
-      "video_id": "2gG-akfMgqA",
-      "title": "BULLS at CAVALIERS | FULL GAME HIGHLIGHTS | November 16, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-17T03:04:31+00:00",
-      "url": "https://www.youtube.com/watch?v=2gG-akfMgqA"
     },
     {
       "video_id": "68t5A881xI0",
@@ -139,19 +163,11 @@
     },
     {
       "video_id": "evs534bh0c0",
-      "title": "Messi's First World Cup Hat Trick | Argentina 3-0 Algeria | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "title": "Lionel Messi's FIRST EVER World Cup Hat-Trick! | 2026 World Cup EXTENDED HIGHLIGHTS",
       "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
       "channel": "FIFA",
       "published_at": "2026-11-14T14:30:16+00:00",
       "url": "https://www.youtube.com/watch?v=evs534bh0c0"
-    },
-    {
-      "video_id": "1Z2ywU5AHAM",
-      "title": "Harry Kane Leads England To Victory Over Croatia | 2026 World Cup EXTENDED HIGHLIGHTS",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-14T08:30:04+00:00",
-      "url": "https://www.youtube.com/watch?v=1Z2ywU5AHAM"
     },
     {
       "video_id": "DGwtXP8q1uk",
@@ -176,30 +192,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-14T05:00:06+00:00",
       "url": "https://www.youtube.com/watch?v=pnNZg_h1qJQ"
-    },
-    {
-      "video_id": "MlKr-av_gl8",
-      "title": "Eloy Room Defies Ecuador To Earn First Point For Curacao | 2026 World Cup Match Highlights",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-14T00:30:22+00:00",
-      "url": "https://www.youtube.com/watch?v=MlKr-av_gl8"
-    },
-    {
-      "video_id": "_dOJIC-hO1c",
-      "title": "60-Second Highlights | Netherlands 2-2 Japan | 2026 FIFA World Cup",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-13T18:30:01+00:00",
-      "url": "https://www.youtube.com/watch?v=_dOJIC-hO1c"
-    },
-    {
-      "video_id": "22JhbO9WvjY",
-      "title": "When Mbappe & Dembele Cooked For France Against Iraq | 2026 World Cup EXTENDED HIGHLIGHTS",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-13T12:30:05+00:00",
-      "url": "https://www.youtube.com/watch?v=22JhbO9WvjY"
     }
   ]
 }
