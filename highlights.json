@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-17T00:48:18.885236+00:00",
+  "generated_at": "2026-11-17T07:43:08.504179+00:00",
   "videos": [
+    {
+      "video_id": "R3a-p02vsKs",
+      "title": "Congo DR Stun Portugal In Thrilling Opener | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-17T07:30:40+00:00",
+      "url": "https://www.youtube.com/watch?v=R3a-p02vsKs"
+    },
+    {
+      "video_id": "knSpiaN5jZs",
+      "title": "EXTENDED: ROCKETS at HEAT | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-17T05:21:08+00:00",
+      "url": "https://www.youtube.com/watch?v=knSpiaN5jZs"
+    },
+    {
+      "video_id": "_hXC7xzakX8",
+      "title": "[26/27 네이션스리그] 독일 vs 네덜란드 3분 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-17T05:00:16+00:00",
+      "url": "https://www.youtube.com/watch?v=_hXC7xzakX8"
+    },
+    {
+      "video_id": "9ePqKlwzH7Y",
+      "title": "[26/27 네이션스리그] 스위스 vs 스코틀랜드 3분 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-17T05:00:15+00:00",
+      "url": "https://www.youtube.com/watch?v=9ePqKlwzH7Y"
+    },
+    {
+      "video_id": "-yB3YX7fJZE",
+      "title": "SUNS at NUGGETS | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-17T04:52:20+00:00",
+      "url": "https://www.youtube.com/watch?v=-yB3YX7fJZE"
+    },
+    {
+      "video_id": "_bk-bs9Tzwo",
+      "title": "WARRIORS at PELICANS | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-17T03:43:24+00:00",
+      "url": "https://www.youtube.com/watch?v=_bk-bs9Tzwo"
+    },
+    {
+      "video_id": "zB-CNQugpmE",
+      "title": "76ERS at NETS | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-17T03:35:44+00:00",
+      "url": "https://www.youtube.com/watch?v=zB-CNQugpmE"
+    },
+    {
+      "video_id": "cnD8p6RBDsI",
+      "title": "ROCKETS at HEAT | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-17T03:22:09+00:00",
+      "url": "https://www.youtube.com/watch?v=cnD8p6RBDsI"
+    },
+    {
+      "video_id": "2gG-akfMgqA",
+      "title": "BULLS at CAVALIERS | FULL GAME HIGHLIGHTS | November 16, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-17T03:04:31+00:00",
+      "url": "https://www.youtube.com/watch?v=2gG-akfMgqA"
+    },
     {
       "video_id": "68t5A881xI0",
       "title": "2026 Ben Rice Highlights (41 HOMERS for the Yankees first-time All-Star!)",
@@ -32,14 +104,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-16T05:00:01+00:00",
       "url": "https://www.youtube.com/watch?v=jUnAS59DPRk"
-    },
-    {
-      "video_id": "1RKyPcfiuQY",
-      "title": "THUNDER at KINGS | FULL GAME HIGHLIGHTS | November 15, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-16T04:42:23+00:00",
-      "url": "https://www.youtube.com/watch?v=1RKyPcfiuQY"
     },
     {
       "video_id": "EJV1YgjjAGU",
@@ -136,14 +200,6 @@
       "channel": "FIFA",
       "published_at": "2026-11-13T12:30:05+00:00",
       "url": "https://www.youtube.com/watch?v=22JhbO9WvjY"
-    },
-    {
-      "video_id": "xT3zd9KZHjQ",
-      "title": "Egypt's First World Cup Win! | New Zealand v Egypt | 2026 World Cup EXTENDED HIGHLIGHTS",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-13T06:30:28+00:00",
-      "url": "https://www.youtube.com/watch?v=xT3zd9KZHjQ"
     }
   ]
 }
