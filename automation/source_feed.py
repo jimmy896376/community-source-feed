@@ -150,7 +150,7 @@ def article(raw, url, download=None):
         return None
     if source_id(url).startswith("hu:"):
         audience = title.get_text(" ", strip=True) + " " + body.get_text(" ", strip=True)
-        if re.search(r"웃대|웃긴대학|여러분|(?<![가-힣])님들|회원님들?|(?:여기|이곳)\s*(?:계신\s*)?분들", audience):
+        if re.search(r"웃대|웃긴대학|여러분|(?<![가-힣])님들|회원님들?|(?:여기|이곳)\s*(?:계신\s*)?분들|(?:먹을|받을|가져갈|필요한|원하는)\s*사람|(?:살면|살면\s*더)\s*우대|(?:해주셈|해줘요|해주실|인증샷\s*받을)", audience):
             return None
     for node in body.select("script, style, .member_plate, .member-info, .profile, .avatar, .sign, .author"):
         node.decompose()
@@ -323,7 +323,7 @@ def collect():
                 # Keep destination addresses out of the public feed even if a source mentions one.
                 if item and not re.search(r"(?:https?://|www\.|[a-z0-9-]+\.(?:com|net|kr|org))", visible, re.I):
                     posts.append({"source_id": key, "source_url": final_url, **item})
-                    if len(posts) >= 10:
+                    if len(posts) >= 20:
                         break
             except ActionRequired:
                 continue
@@ -335,3 +335,4 @@ def collect():
 if __name__ == "__main__":
     feed = collect()
     Path("feed.json").write_text(json.dumps(feed, ensure_ascii=False, indent=2), encoding="utf-8")
+
