@@ -60,3 +60,8 @@ jobs:
           git commit -m 'Refresh public source feeds' || exit 0
           git pull --rebase -X theirs origin main
           git push
+      - name: Prune expired source image cache
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python automation/prune_media_cache.py
