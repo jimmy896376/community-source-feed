@@ -2,6 +2,7 @@
 """Collect approved public community posts. No target-site URL or credentials."""
 import hashlib
 import io
+import os
 import ipaddress
 import json
 import re
@@ -311,28 +312,101 @@ class SourceReader:
                 raise ActionRequired("Humoruniv original image could not be read.") from None
 
 
-def collect():
+def save_media(data, media_dir):
+    digest = hashlib.sha256(data).hexdigest()
+    directory = Path(media_dir)
+    directory.mkdir(parents=True, exist_ok=True)
+    target = directory / digest
+    if not target.exists():
+        target.write_bytes(data)
+    return digest
+
+
+def prune_media(media_dir, posts):
+    needed = {image["digest"] for post in posts for image in post["images"]}
+    for target in Path(media_dir).iterdir():
+        if target.is_file() and target.name not in needed:
+            target.unlink()
+
+
+def cached_previous_feed(reader, media_dir):
+    """Keep recent, already reviewed candidates when the listing is unavailable."""
+    path = Path("feed.json")
+    if not path.exists():
+        raise ActionRequired("No suitable public source is available.")
+    try:
+        previous = json.loads(path.read_text(encoding="utf-8"))
+        generated = datetime.fromisoformat(previous["generated_at"].replace("Z", "+00:00"))
+        if not 0 <= (datetime.now(timezone.utc) - generated).total_seconds() <= 24 * 3600:
+            raise ValueError("Previous feed expired")
+    except (ValueError, KeyError, TypeError):
+        raise ActionRequired("No recent approved source feed is available.") from None
+    if previous.get("media_cached") is True:
+        return previous
+    posts = []
+    for post in previous.get("posts", []):
+        try:
+            images = post["images"]
+            if not images:
+                continue
+            for image in images:
+                digest, url = image["digest"], image["source_url"]
+                host = urlsplit(url).hostname or ""
+                if not re.fullmatch(r"[0-9a-f]{64}", digest) or not (
+                        host == "humoruniv.com" or host.endswith(".humoruniv.com")):
+                    raise ActionRequired("Previous feed has an unapproved image.")
+                data = reader.image(url, referer=post["source_url"])
+                if hashlib.sha256(data).hexdigest() != digest:
+                    raise ActionRequired("Previous source image changed.")
+                save_media(data, media_dir)
+            posts.append(post)
+        except (ActionRequired, KeyError, TypeError):
+            continue
+    if not posts:
+        raise ActionRequired("No recent source images could be cached.")
+    prune_media(media_dir, posts)
+    return {"generated_at": previous["generated_at"], "media_cached": True, "posts": posts}
+
+
+def collect(media_dir=None):
     posts = []
     with SourceReader() as reader:
-        raw, listing = reader.html(LISTS[0])
+        try:
+            raw, listing = reader.html(LISTS[0])
+        except ActionRequired:
+            if media_dir:
+                return cached_previous_feed(reader, media_dir)
+            raise
+
+        def download(url, referer=None):
+            data = reader.image(url, referer=referer)
+            if media_dir:
+                save_media(data, media_dir)
+            return data
+
         for key, url in candidates(raw, listing)[:30]:
             try:
                 raw, final_url = reader.html(url)
-                item = article(raw, final_url, download=reader.image)
+                item = article(raw, final_url, download=download)
                 visible = (item["title"] + " " + item["body"]) if item else ""
                 # Keep destination addresses out of the public feed even if a source mentions one.
-                if item and not re.search(r"(?:https?://|www\.|[a-z0-9-]+\.(?:com|net|kr|org))", visible, re.I):
+                if item and not re.search(r"(?:https?://|www\\.|[a-z0-9-]+\\.(?:com|net|kr|org))", visible, re.I):
                     posts.append({"source_id": key, "source_url": final_url, **item})
                     if len(posts) >= 20:
                         break
             except ActionRequired:
                 continue
+        if not posts and media_dir:
+            return cached_previous_feed(reader, media_dir)
     if not posts:
         raise ActionRequired("No suitable public source is available.")
-    return {"generated_at": datetime.now(timezone.utc).isoformat(), "posts": posts}
+    feed = {"generated_at": datetime.now(timezone.utc).isoformat(), "posts": posts}
+    if media_dir:
+        prune_media(media_dir, posts)
+        feed["media_cached"] = True
+    return feed
 
 
 if __name__ == "__main__":
-    feed = collect()
+    feed = collect(os.environ.get("SOURCE_MEDIA_CACHE_DIR"))
     Path("feed.json").write_text(json.dumps(feed, ensure_ascii=False, indent=2), encoding="utf-8")
-
