@@ -1,5 +1,11 @@
+import hashlib
 import io
+import json
+import os
+import tempfile
 import unittest
+from datetime import datetime, timezone
+from pathlib import Path
 from unittest.mock import Mock, patch
 
 from PIL import Image
@@ -55,6 +61,38 @@ class SourceFeedTests(unittest.TestCase):
         self.assertEqual(item["body"].count("<img"), 1)
         self.assertNotIn("자기소개", item["body"])
 
+
+    def test_recent_feed_images_are_cached_when_listing_fails(self):
+        data = io.BytesIO()
+        Image.new("RGB", (20, 20), "red").save(data, format="PNG")
+        image = data.getvalue()
+        digest = hashlib.sha256(image).hexdigest()
+        post = {
+            "source_id": "hu:1430195",
+            "source_url": "https://m.humoruniv.com/board/read.html?table=pds&number=1430195",
+            "title": "원본 글",
+            "body": f'<img src="asset:{digest}">',
+            "images": [{"digest": digest, "source_url": "https://down.humoruniv.com/story.png",
+                        "mime": "image/png"}],
+        }
+
+        class Reader:
+            def image(self, url, referer=None):
+                return image
+
+        with tempfile.TemporaryDirectory() as directory:
+            old = os.getcwd()
+            try:
+                os.chdir(directory)
+                Path("feed.json").write_text(json.dumps({
+                    "generated_at": datetime.now(timezone.utc).isoformat(), "posts": [post],
+                }), encoding="utf-8")
+                result = source_feed.cached_previous_feed(Reader(), Path(directory) / "media")
+                self.assertTrue(result["media_cached"])
+                self.assertEqual(result["posts"], [post])
+                self.assertEqual((Path(directory) / "media" / digest).read_bytes(), image)
+            finally:
+                os.chdir(old)
 
 if __name__ == "__main__":
     unittest.main()
