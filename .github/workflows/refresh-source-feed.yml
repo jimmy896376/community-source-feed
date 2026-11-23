@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - '.github/workflows/refresh-source-feed.yml'
+      - 'automation/source_feed.py'
+      - 'automation/test_source_feed.py'
   schedule:
     - cron: '10,40 * * * *'
   workflow_dispatch:

@@ -15,7 +15,9 @@ import requests
 from bs4 import BeautifulSoup
 from PIL import Image, ImageOps
 
-LISTS = ["https://m.humoruniv.com/board/list.html?table=pds"]
+LISTS = ["https://m.humoruniv.com/board/list.html?table=pds",
+         "https://m.humoruniv.com/board/list.html?table=pds&pg=1",
+         "https://m.humoruniv.com/board/list.html?table=pds&pg=2"]
 REFERENCE_ARTWORK = ((0x07170FB5E576361F, 0.64, 0.70),
                      (0x000C76772D9A6401, 0.98, 1.02))
 EXCLUDED_ARTWORK = ((0x0F3C18D1C336930F, 0.68, 0.73),
@@ -138,6 +140,16 @@ def looks_like_detached_artwork(data):
     # shortcut: pale paper is only a suspicion; skip the candidate instead of deleting its image.
     return all(map(pale, corners)) and sum(map(pale, pixels)) >= 300
 
+def unreadable_tall_image(data):
+    """Reject tiny placeholders and tall images unreadable after the site's 1600px fit."""
+    try:
+        with Image.open(io.BytesIO(data)) as picture:
+            width, height = picture.size
+    except Exception:
+        return False
+    return min(width, height) < 100 or height >= 1000 and width * min(1, 1600 / height) < 500
+
+
 def article(raw, url, download=None):
     download = download or public_download
     soup = BeautifulSoup(raw, "html.parser")
@@ -163,6 +175,8 @@ def article(raw, url, download=None):
     for text in body.find_all(string=True):
         if any(domain in str(text).lower() for domain in ("fmkorea.com", "humoruniv.com", "todayhumor.co.kr")):
             return None
+    if re.search(r"참새|sparrow", title.get_text(" ", strip=True) + " " + body.get_text(" ", strip=True), re.I):
+        return None
     images, seen = [], set()
     for image in body.select("img"):
         src = image.get("img_file_url") or image.get("data-original") or image.get("data-src") or image.get("src")
@@ -178,7 +192,15 @@ def article(raw, url, download=None):
         if not src:
             return None
         image_url = urljoin(url, src)
-        data = download(image_url, referer=url)
+        try:
+            data = download(image_url, referer=url)
+        except ActionRequired:
+            displayed = urljoin(url, image.get("src", ""))
+            if (displayed == image_url or
+                    urlsplit(displayed).hostname != "down-webp.humoruniv.com"):
+                raise
+            data = download(displayed, referer=url)
+            image_url = displayed
         extra_image = len(body_images) > 1 or len(body.get_text(" ", strip=True)) >= 80
         marker = " ".join((image.get("alt") or "", image.get("title") or "",
                            " ".join(image.get("class", [])), image.get("id") or "",
@@ -195,6 +217,8 @@ def article(raw, url, download=None):
             continue
         if (len(body_images) > 1 and index in (0, len(body_images) - 1)
                 and not topical_art and looks_like_detached_artwork(data)):
+            return None
+        if unreadable_tall_image(data):
             return None
         try:
             with Image.open(io.BytesIO(data)) as picture:
@@ -263,8 +287,17 @@ class SourceReader:
             self.start()
             page = self.context.new_page()
             try:
-                response = page.goto(url, wait_until="domcontentloaded", timeout=45000)
-                if response is None or response.status != 200:
+                from playwright.sync_api import TimeoutError as PlaywrightTimeoutError
+                timed_out_with_content = False
+                try:
+                    response = page.goto(url, wait_until="domcontentloaded", timeout=45000)
+                except PlaywrightTimeoutError:
+                    if page.url != url or not (page.locator("#wrap_copy").count() if source_id(url)
+                                               else candidates(page.content(), page.url)):
+                        raise
+                    response = None
+                    timed_out_with_content = True
+                if (response is None and not timed_out_with_content) or (response is not None and response.status != 200):
                     raise ActionRequired("Humoruniv browser access is blocked.")
                 if "브라우저 쿠키 발행이 필요합니다" in page.locator("body").inner_text():
                     # Use the visible site's normal anonymous-cookie issuance button. Never solve CAPTCHAs.
@@ -274,9 +307,12 @@ class SourceReader:
                         if control.count():
                             control.first.click()
                             page.wait_for_load_state("domcontentloaded")
+                            timed_out_with_content = False
                             response = page.goto(url, wait_until="domcontentloaded", timeout=45000)
                             break
-                if response is None or response.status != 200 or urlsplit(page.url).hostname not in ("m.humoruniv.com", "web.humoruniv.com"):
+                if ((response is None and not timed_out_with_content) or
+                        (response is not None and response.status != 200) or
+                        urlsplit(page.url).hostname not in ("m.humoruniv.com", "web.humoruniv.com")):
                     raise ActionRequired("Humoruniv anonymous session could not be established.")
                 if source_id(url) and page.locator('[id^="comment_file_"]').count():
                     page.locator('#wrap_copy img[img_file_url]').first.wait_for(timeout=10000)
@@ -284,8 +320,8 @@ class SourceReader:
                 return page.content(), page.url
             except ActionRequired:
                 raise
-            except Exception:
-                raise ActionRequired("Humoruniv page could not be read by the browser.") from None
+            except Exception as error:
+                raise ActionRequired("Humoruniv page could not be read by the browser (%s)." % type(error).__name__) from None
             finally:
                 page.close()
 
@@ -369,34 +405,39 @@ def cached_previous_feed(reader, media_dir):
 
 
 def collect(media_dir=None):
-    posts = []
+    posts, seen_keys = [], set()
     with SourceReader() as reader:
-        try:
-            raw, listing = reader.html(LISTS[0])
-        except ActionRequired:
-            if media_dir:
-                return cached_previous_feed(reader, media_dir)
-            raise
-
         def download(url, referer=None):
             data = reader.image(url, referer=referer)
             if media_dir:
                 save_media(data, media_dir)
             return data
 
-        for key, url in candidates(raw, listing)[:30]:
+        listings_loaded = False
+        for listing_url in LISTS:
             try:
-                raw, final_url = reader.html(url)
-                item = article(raw, final_url, download=download)
-                visible = (item["title"] + " " + item["body"]) if item else ""
-                # Keep destination addresses out of the public feed even if a source mentions one.
-                if item and not re.search(r"(?:https?://|www\\.|[a-z0-9-]+\\.(?:com|net|kr|org))", visible, re.I):
-                    posts.append({"source_id": key, "source_url": final_url, **item})
-                    if len(posts) >= 20:
-                        break
+                raw, listing = reader.html(listing_url)
+                listings_loaded = True
             except ActionRequired:
                 continue
-        if not posts and media_dir:
+            for key, url in candidates(raw, listing)[:30]:
+                if key in seen_keys:
+                    continue
+                seen_keys.add(key)
+                try:
+                    raw, final_url = reader.html(url)
+                    item = article(raw, final_url, download=download)
+                    visible = (item["title"] + " " + item["body"]) if item else ""
+                    # Keep destination addresses out of the public feed even if a source mentions one.
+                    if item and not re.search(r"(?:https?://|www\\.|[a-z0-9-]+\\.(?:com|net|kr|org))", visible, re.I):
+                        posts.append({"source_id": key, "source_url": final_url, **item})
+                        if len(posts) >= 35:
+                            break
+                except ActionRequired:
+                    continue
+            if len(posts) >= 35:
+                break
+        if (not listings_loaded or not posts) and media_dir:
             return cached_previous_feed(reader, media_dir)
     if not posts:
         raise ActionRequired("No suitable public source is available.")
