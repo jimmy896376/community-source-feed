@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-23T11:58:39.383328+00:00",
+  "generated_at": "2026-11-23T14:30:05.920737+00:00",
   "videos": [
+    {
+      "video_id": "U3GTc_kOKrY",
+      "title": "José Bautista's MLB career highlights | Iconic Blue Jays slugger (Ft. his ICONIC bat flip)",
+      "channel_id": "UCoLrcjPV5PbUrUyXq5mjc_A",
+      "channel": "MLB",
+      "published_at": "2026-11-23T12:00:13+00:00",
+      "url": "https://www.youtube.com/watch?v=U3GTc_kOKrY"
+    },
     {
       "video_id": "He4qjO0pUB8",
       "title": "Brazil v Japan | Round Of 32 | 2026 World Cup EXTENDED HIGHLIGHTS",
@@ -184,14 +192,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-18T05:00:33+00:00",
       "url": "https://www.youtube.com/watch?v=kyZ4o-0J8cc"
-    },
-    {
-      "video_id": "vFVOgEjuu7w",
-      "title": "[26/27 네이션스리그] 덴마크 vs 노르웨이 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-18T05:00:20+00:00",
-      "url": "https://www.youtube.com/watch?v=vFVOgEjuu7w"
     }
   ]
 }
