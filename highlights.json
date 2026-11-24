@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T17:38:35.777758+00:00",
+  "generated_at": "2026-11-24T20:01:36.780490+00:00",
   "videos": [
     {
       "video_id": "fwmui9tFzL0",
@@ -27,7 +27,7 @@
     },
     {
       "video_id": "V4SWN8yUW2Q",
-      "title": "Bartolo Colon's MLB career highlights | 2005 NL Cy Young, Mets fan favorite (and yes, his home run!)",
+      "title": "Bartolo Colon's MLB career highlights | 2005 AL Cy Young, Mets fan favorite (and yes, his home run!)",
       "channel_id": "UCoLrcjPV5PbUrUyXq5mjc_A",
       "channel": "MLB",
       "published_at": "2026-11-24T12:00:34+00:00",
@@ -72,38 +72,6 @@
       "channel": "FIFA",
       "published_at": "2026-11-24T05:30:13+00:00",
       "url": "https://www.youtube.com/watch?v=jX1BBXnhx_4"
-    },
-    {
-      "video_id": "qt_mU2YySHk",
-      "title": "CLIPPERS at ROCKETS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-24T04:13:56+00:00",
-      "url": "https://www.youtube.com/watch?v=qt_mU2YySHk"
-    },
-    {
-      "video_id": "FsGwcxZGHCc",
-      "title": "SUNS at PELCIANS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-24T04:05:44+00:00",
-      "url": "https://www.youtube.com/watch?v=FsGwcxZGHCc"
-    },
-    {
-      "video_id": "fPuiys2IFmk",
-      "title": "CAVALIERS at BULLS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-24T03:47:18+00:00",
-      "url": "https://www.youtube.com/watch?v=fPuiys2IFmk"
-    },
-    {
-      "video_id": "PHx8pJV7Qss",
-      "title": "THUNDER at PACERS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-24T03:21:53+00:00",
-      "url": "https://www.youtube.com/watch?v=PHx8pJV7Qss"
     },
     {
       "video_id": "Nv7EdZRG6HQ",
@@ -224,14 +192,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-20T12:49:50+00:00",
       "url": "https://www.youtube.com/watch?v=n9J46PSNAt0"
-    },
-    {
-      "video_id": "kyZ4o-0J8cc",
-      "title": "[26/27 네이션스리그] 웨일스 vs 포르투갈 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-18T05:00:33+00:00",
-      "url": "https://www.youtube.com/watch?v=kyZ4o-0J8cc"
     }
   ]
 }
