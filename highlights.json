@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-11-25T20:15:03.749353+00:00",
+  "generated_at": "2026-11-25T22:58:54.263010+00:00",
   "videos": [
+    {
+      "video_id": "RfHbDcA-Eog",
+      "title": "[26/27 UCL] 릴 vs 바이에른 뮌헨 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-25T22:32:13+00:00",
+      "url": "https://www.youtube.com/watch?v=RfHbDcA-Eog"
+    },
+    {
+      "video_id": "pO9v00Glphg",
+      "title": "[26/27 UCL] 사바 vs 바르셀로나 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-25T20:27:02+00:00",
+      "url": "https://www.youtube.com/watch?v=pO9v00Glphg"
+    },
     {
       "video_id": "tW6wsD3f7bE",
       "title": "[26/27 UEFA 유스리그] PSG vs AS 로마 하이라이트｜SPOTV FOOTBALL",
@@ -106,14 +122,6 @@
       "url": "https://www.youtube.com/watch?v=B1ZLLbHMR2w"
     },
     {
-      "video_id": "fNKVeuTjHEo",
-      "title": "[26/27 UCL] 레알 마드리드 vs PSV 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-24T22:28:24+00:00",
-      "url": "https://www.youtube.com/watch?v=fNKVeuTjHEo"
-    },
-    {
       "video_id": "xQHNGqL_juo",
       "title": "Algeria v Montenegro | HIGHLIGHTS | FIFA U-17 World Cup 2026",
       "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
@@ -152,14 +160,6 @@
       "channel": "FIFA",
       "published_at": "2026-11-24T20:10:02+00:00",
       "url": "https://www.youtube.com/watch?v=_Zco_huNr8U"
-    },
-    {
-      "video_id": "V4SWN8yUW2Q",
-      "title": "Bartolo Colon's MLB career highlights | 2005 AL Cy Young, Mets fan favorite (and yes, his home run!)",
-      "channel_id": "UCoLrcjPV5PbUrUyXq5mjc_A",
-      "channel": "MLB",
-      "published_at": "2026-11-24T12:00:34+00:00",
-      "url": "https://www.youtube.com/watch?v=V4SWN8yUW2Q"
     }
   ]
 }
