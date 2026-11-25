@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-25T01:39:17.419123+00:00",
+  "generated_at": "2026-11-25T03:28:30.418597+00:00",
   "videos": [
+    {
+      "video_id": "K4gN0RJ1Ghs",
+      "title": "PISTONS at MAGIC | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 24, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-25T02:51:59+00:00",
+      "url": "https://www.youtube.com/watch?v=K4gN0RJ1Ghs"
+    },
     {
       "video_id": "B1ZLLbHMR2w",
       "title": "[26/27 UCL] 맨체스터 시티 vs 나폴리 하이라이트｜SPOTV FOOTBALL",
@@ -98,30 +106,6 @@
       "url": "https://www.youtube.com/watch?v=c47twX9c4_I"
     },
     {
-      "video_id": "Iqsnel9aWHg",
-      "title": "JAZZ at LAKERS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-24T05:53:19+00:00",
-      "url": "https://www.youtube.com/watch?v=Iqsnel9aWHg"
-    },
-    {
-      "video_id": "Matd7OC5wW8",
-      "title": "EXTENDED: CLIPPERS at ROCKETS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-24T05:44:26+00:00",
-      "url": "https://www.youtube.com/watch?v=Matd7OC5wW8"
-    },
-    {
-      "video_id": "UXfAWMZHGtc",
-      "title": "SPURS at KINGS | FULL GAME HIGHLIGHTS | November 23, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-24T05:41:25+00:00",
-      "url": "https://www.youtube.com/watch?v=UXfAWMZHGtc"
-    },
-    {
       "video_id": "jX1BBXnhx_4",
       "title": "Modric Makes Croatia History In Crunch Clash With Panama | 2026 World Cup EXTENDED HIGHLIGHTS",
       "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
@@ -176,14 +160,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-23T05:00:34+00:00",
       "url": "https://www.youtube.com/watch?v=D-U8KZ6ph2Y"
-    },
-    {
-      "video_id": "eshDNJiadbg",
-      "title": "[26/27 세리에A] 12R 아탈란타 vs 인터 밀란 3분 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-23T05:00:05+00:00",
-      "url": "https://www.youtube.com/watch?v=eshDNJiadbg"
     }
   ]
 }
