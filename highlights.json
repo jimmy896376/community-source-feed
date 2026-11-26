@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-25T22:58:54.263010+00:00",
+  "generated_at": "2026-11-26T02:54:50.412335+00:00",
   "videos": [
+    {
+      "video_id": "LxVYg_oWtq8",
+      "title": "EXTENDED: HEAT at 76ERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-26T02:34:50+00:00",
+      "url": "https://www.youtube.com/watch?v=LxVYg_oWtq8"
+    },
+    {
+      "video_id": "yOL4auO8M1s",
+      "title": "Tarik Skubal's MLB career highlights! (Mets signed 2x Cy Young winner to 9-year deal)",
+      "channel_id": "UCoLrcjPV5PbUrUyXq5mjc_A",
+      "channel": "MLB",
+      "published_at": "2026-11-26T01:00:34+00:00",
+      "url": "https://www.youtube.com/watch?v=yOL4auO8M1s"
+    },
+    {
+      "video_id": "kYFgY_aYohs",
+      "title": "[26/27 UCL] 인터 밀란 vs 슈투트가르트 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-26T00:57:47+00:00",
+      "url": "https://www.youtube.com/watch?v=kYFgY_aYohs"
+    },
+    {
+      "video_id": "ZrlEGz6KlW0",
+      "title": "HEAT at 76ERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-26T00:45:42+00:00",
+      "url": "https://www.youtube.com/watch?v=ZrlEGz6KlW0"
+    },
+    {
+      "video_id": "UmduEY0uKbY",
+      "title": "[26/27 UCL] 브뤼헤 vs 리버풀 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-25T23:57:54+00:00",
+      "url": "https://www.youtube.com/watch?v=UmduEY0uKbY"
+    },
+    {
+      "video_id": "YYX8nTCrpBg",
+      "title": "[26/27 UCL] PSG vs AS로마 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-25T23:20:07+00:00",
+      "url": "https://www.youtube.com/watch?v=YYX8nTCrpBg"
+    },
     {
       "video_id": "RfHbDcA-Eog",
       "title": "[26/27 UCL] 릴 vs 바이에른 뮌헨 하이라이트｜SPOTV FOOTBALL",
@@ -90,36 +138,12 @@
       "url": "https://www.youtube.com/watch?v=nVIbpfoUiaI"
     },
     {
-      "video_id": "Cv92zqJxO1k",
-      "title": "EXTENDED: CELTICS at WIZARDS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 24, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-25T06:06:24+00:00",
-      "url": "https://www.youtube.com/watch?v=Cv92zqJxO1k"
-    },
-    {
-      "video_id": "ZV_1v8zzUbw",
-      "title": "MAVERICKS at NUGGETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 24, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-25T06:02:25+00:00",
-      "url": "https://www.youtube.com/watch?v=ZV_1v8zzUbw"
-    },
-    {
       "video_id": "JUqxG4slgH8",
       "title": "Austria Start Strong Against Debutants Jordan | 2026 World Cup EXTENDED HIGHLIGHTS",
       "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
       "channel": "FIFA",
       "published_at": "2026-11-25T04:30:36+00:00",
       "url": "https://www.youtube.com/watch?v=JUqxG4slgH8"
-    },
-    {
-      "video_id": "B1ZLLbHMR2w",
-      "title": "[26/27 UCL] 맨체스터 시티 vs 나폴리 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-24T22:30:21+00:00",
-      "url": "https://www.youtube.com/watch?v=B1ZLLbHMR2w"
     },
     {
       "video_id": "xQHNGqL_juo",
@@ -152,14 +176,6 @@
       "channel": "FIFA",
       "published_at": "2026-11-24T20:15:23+00:00",
       "url": "https://www.youtube.com/watch?v=UbA-dMwl0_c"
-    },
-    {
-      "video_id": "_Zco_huNr8U",
-      "title": "Mexico v Cameroon | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-24T20:10:02+00:00",
-      "url": "https://www.youtube.com/watch?v=_Zco_huNr8U"
     }
   ]
 }
