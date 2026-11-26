@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-11-26T04:45:10.670146+00:00",
+  "generated_at": "2026-11-26T12:22:16.558116+00:00",
   "videos": [
+    {
+      "video_id": "SQMErcMyEow",
+      "title": "Legends Ronaldo & James Face Off | Colombia v Portugal | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-26T10:30:13+00:00",
+      "url": "https://www.youtube.com/watch?v=SQMErcMyEow"
+    },
+    {
+      "video_id": "5EaY-W4T8O8",
+      "title": "EXTENDED: SPURS at TRAIL BLAZERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-26T06:33:10+00:00",
+      "url": "https://www.youtube.com/watch?v=5EaY-W4T8O8"
+    },
+    {
+      "video_id": "pGbbg2LRLlE",
+      "title": "SPURS at TRAIL BLAZERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-26T06:04:08+00:00",
+      "url": "https://www.youtube.com/watch?v=pGbbg2LRLlE"
+    },
+    {
+      "video_id": "0vg4rEM49HY",
+      "title": "KINGS at WARRIORS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
+      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
+      "channel": "NBA",
+      "published_at": "2026-11-26T06:02:47+00:00",
+      "url": "https://www.youtube.com/watch?v=0vg4rEM49HY"
+    },
     {
       "video_id": "d1ml5nG4h0M",
       "title": "SUNS at ROCKETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
@@ -24,38 +56,6 @@
       "channel": "NBA",
       "published_at": "2026-11-26T03:41:04+00:00",
       "url": "https://www.youtube.com/watch?v=kz3nvPo8EjQ"
-    },
-    {
-      "video_id": "vWLULGo65pw",
-      "title": "TIMBERWOLVES at THUNDER | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-26T03:35:38+00:00",
-      "url": "https://www.youtube.com/watch?v=vWLULGo65pw"
-    },
-    {
-      "video_id": "ijXNLi63Xxw",
-      "title": "CAVALIERS at KNICKS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-26T03:11:37+00:00",
-      "url": "https://www.youtube.com/watch?v=ijXNLi63Xxw"
-    },
-    {
-      "video_id": "7W5dg0c7C3A",
-      "title": "BULLS at HORNETS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-26T02:47:18+00:00",
-      "url": "https://www.youtube.com/watch?v=7W5dg0c7C3A"
-    },
-    {
-      "video_id": "LxVYg_oWtq8",
-      "title": "EXTENDED: HEAT at 76ERS | EMIRATES NBA CUP 🏆 | FULL GAME HIGHLIGHTS | November 25, 2026",
-      "channel_id": "UCWJ2lWNubArHWmf3FIHbfcQ",
-      "channel": "NBA",
-      "published_at": "2026-11-26T02:34:50+00:00",
-      "url": "https://www.youtube.com/watch?v=LxVYg_oWtq8"
     },
     {
       "video_id": "yOL4auO8M1s",
@@ -200,22 +200,6 @@
       "channel": "FIFA",
       "published_at": "2026-11-24T20:45:20+00:00",
       "url": "https://www.youtube.com/watch?v=GcCbeHi6cxo"
-    },
-    {
-      "video_id": "oUZTyB9vEKE",
-      "title": "Brazil v Tanzania | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-24T20:30:35+00:00",
-      "url": "https://www.youtube.com/watch?v=oUZTyB9vEKE"
-    },
-    {
-      "video_id": "UbA-dMwl0_c",
-      "title": "Dominican Republic v Chile | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-24T20:15:23+00:00",
-      "url": "https://www.youtube.com/watch?v=UbA-dMwl0_c"
     }
   ]
 }
