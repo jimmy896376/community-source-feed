@@ -80,13 +80,12 @@ class SourceFeedTests(unittest.TestCase):
         Image.new("RGB", (800, 600), "red").save(img, format="PNG")
         image_bytes = img.getvalue()
         listing_html = (
-            '<a href="/board/read.html?table=pds&number=999">'
-            '<span class="ok_num">120</span></a>'
+            '<table><tr><td><a href="/dogdrip/736974010?sort_index=popular&page=2">인기글</a></td></tr></table>'
         )
         article_html = (
-            '<h2><a>둘째 페이지 글</a></h2>'
-            '<div id="wrap_copy"><p>재미있는 본문입니다.</p>'
-            '<img src="https://down.humoruniv.com/second.png"></div>'
+            '<div class="article-head"><h4>둘째 페이지 유머 글</h4></div>'
+            '<div class="rhymix_content"><p>재미있는 본문입니다.</p>'
+            '<img src="https://www.dogdrip.net/files/attach/images/1/second.png"></div>'
         )
 
         class FakeReader:
@@ -101,8 +100,6 @@ class SourceFeedTests(unittest.TestCase):
                     raise source_feed.ActionRequired("first page timed out")
                 if url == source_feed.LISTS[1]:
                     return listing_html, url
-                if url == source_feed.LISTS[2]:
-                    return "", url
                 return article_html, url
 
             def image(self, url, referer=None):
@@ -112,7 +109,7 @@ class SourceFeedTests(unittest.TestCase):
              patch.object(source_feed, "SourceReader", return_value=FakeReader()):
             result = source_feed.collect(media_dir=directory)
         self.assertTrue(result["media_cached"])
-        self.assertEqual([row["source_id"] for row in result["posts"]], ["hu:999"])
+        self.assertEqual([row["source_id"] for row in result["posts"]], ["dd:736974010"])
 
 
     def test_recent_feed_images_are_cached_when_listing_fails(self):

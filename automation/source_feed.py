@@ -15,9 +15,8 @@ import requests
 from bs4 import BeautifulSoup
 from PIL import Image, ImageOps
 
-LISTS = ["https://m.humoruniv.com/board/list.html?table=pds",
-         "https://m.humoruniv.com/board/list.html?table=pds&pg=1",
-         "https://m.humoruniv.com/board/list.html?table=pds&pg=2"]
+LISTS = ["https://www.dogdrip.net/dogdrip?sort_index=popular&page=1",
+         "https://www.dogdrip.net/dogdrip?sort_index=popular&page=2"]
 REFERENCE_ARTWORK = ((0x07170FB5E576361F, 0.64, 0.70),
                      (0x000C76772D9A6401, 0.98, 1.02))
 EXCLUDED_ARTWORK = ((0x0F3C18D1C336930F, 0.68, 0.73),
@@ -37,7 +36,7 @@ def public_download(url, referer=None):
         if parts.scheme != "https" or parts.username or parts.password or parts.port not in (None, 443):
             raise ActionRequired("Source contains an unsafe media URL.")
         if not any(parts.hostname == d or parts.hostname.endswith("." + d)
-                   for d in ("fmkorea.com", "humoruniv.com", "todayhumor.co.kr")):
+                   for d in ("dogdrip.net", "fmkorea.com", "humoruniv.com", "todayhumor.co.kr")):
             raise ActionRequired("Source media is outside the approved community domains.")
         try:
             addresses = socket.getaddrinfo(parts.hostname, 443, type=socket.SOCK_STREAM)
@@ -67,6 +66,10 @@ def source_id(url):
     p = urlsplit(url)
     host = p.hostname or ""
     q = parse_qs(p.query)
+    if host in ("www.dogdrip.net", "dogdrip.net"):
+        m = re.fullmatch(r"/dogdrip/(\d+)", p.path)
+        number = m.group(1) if m else q.get("document_srl", [None])[0]
+        return "dd:" + number if number and number.isdigit() else None
     if host in ("www.fmkorea.com", "fmkorea.com"):
         m = re.fullmatch(r"/(?:best2/)?(\d+)", p.path)
         number = m.group(1) if m else q.get("document_srl", [None])[0]
@@ -81,6 +84,17 @@ def source_id(url):
 
 def candidates(raw, listing):
     soup = BeautifulSoup(raw, "html.parser")
+    if "dogdrip.net" in urlsplit(listing).netloc:
+        urls = {}
+        for a in soup.select("a[href]"):
+            if a.find_parent(class_=lambda c: c and "notice" in c):
+                continue
+            url = urljoin(listing, a["href"])
+            key = source_id(url)
+            if key and key.startswith("dd:"):
+                clean_url = f"https://www.dogdrip.net/dogdrip/{key.split(':', 1)[1]}"
+                urls.setdefault(key, clean_url)
+        return list(urls.items())[:30]
     if "humoruniv.com" in urlsplit(listing).netloc:
         ranked = {}
         for a in soup.select("a[href]"):
@@ -153,17 +167,26 @@ def unreadable_tall_image(data):
 def article(raw, url, download=None):
     download = download or public_download
     soup = BeautifulSoup(raw, "html.parser")
-    if source_id(url).startswith("fm:"):
+    sid = source_id(url) or ""
+    if sid.startswith("dd:"):
+        title = soup.select_one(".article-head h4, .ed.article-head h4, h4.title, .title-wrapper h4")
+        if title is None:
+            og = soup.select_one('meta[property="og:title"]')
+            if og and og.get("content"):
+                title = soup.new_tag("span")
+                title.string = re.sub(r"\s*-\s*DogDrip\.Net.*$", "", og["content"]).strip()
+        body = soup.select_one("#article_1 .rhymix_content, #article_1 .xe_content, .article-wrapper .rhymix_content, .article-wrapper .xe_content, .rhymix_content, .xe_content")
+    elif sid.startswith("fm:"):
         title, body = soup.select_one(".rd_hd .np_18px, .rd_hd .title"), soup.select_one(".xe_content")
-    elif source_id(url).startswith("hu:"):
+    elif sid.startswith("hu:"):
         title, body = soup.select_one("h2 a"), soup.select_one("#wrap_copy")
     else:
         title, body = soup.select_one(".viewSubjectDiv"), soup.select_one(".viewContent")
     if title is None or body is None or body.select_one("video, iframe, audio, object, embed, canvas, svg"):
         return None
-    if source_id(url).startswith("hu:"):
+    if sid.startswith(("hu:", "dd:")):
         audience = title.get_text(" ", strip=True) + " " + body.get_text(" ", strip=True)
-        if re.search(r"웃대|웃긴대학|여러분|(?<![가-힣])님들|회원님들?|(?:여기|이곳)\s*(?:계신\s*)?분들|(?:먹을|받을|가져갈|필요한|원하는)\s*사람|(?:살면|살면\s*더)\s*우대|(?:해주셈|해줘요|해주실|인증샷\s*받을)", audience):
+        if re.search(r"웃대|웃긴대학|개드립|개붕이?|붐업|여러분|(?<![가-힣])님들|회원님들?|(?:여기|이곳)\s*(?:계신\s*)?분들|(?:먹을|받을|가져갈|필요한|원하는)\s*사람|(?:살면|살면\s*더)\s*우대|(?:해주셈|해줘요|해주실|인증샷\s*받을)", audience):
             return None
     for node in body.select("script, style, .member_plate, .member-info, .profile, .avatar, .sign, .author"):
         node.decompose()
@@ -173,7 +196,7 @@ def article(raw, url, download=None):
     for node in body.select("a"):
         node.unwrap()
     for text in body.find_all(string=True):
-        if any(domain in str(text).lower() for domain in ("fmkorea.com", "humoruniv.com", "todayhumor.co.kr")):
+        if any(domain in str(text).lower() for domain in ("dogdrip.net", "fmkorea.com", "humoruniv.com", "todayhumor.co.kr")):
             return None
     if re.search(r"참새|sparrow", title.get_text(" ", strip=True) + " " + body.get_text(" ", strip=True), re.I):
         return None
@@ -182,8 +205,11 @@ def article(raw, url, download=None):
         src = image.get("img_file_url") or image.get("data-original") or image.get("data-src") or image.get("src")
         if src:
             image_url = urljoin(url, src)
+            path_l = urlsplit(image_url).path.lower()
             if (urlsplit(image_url).hostname in ("m.humoruniv.com", "web.humoruniv.com")
-                    and re.fullmatch(r"/images/loading_bar\d*\.gif", urlsplit(image_url).path, re.I)):
+                    and re.fullmatch(r"/images/loading_bar\d*\.gif", path_l)):
+                image.decompose()
+            elif sid.startswith("dd:") and any(seg in path_l for seg in ("/modules/point/icons/", "/layouts/", "/addons/", "/common/img/")):
                 image.decompose()
     body_images = body.select("img")
     topical_art = re.search(r"겨울사람|그림|일러스트|캐릭터|팬아트|작화|스케치", title.get_text(" ", strip=True))
@@ -273,8 +299,11 @@ class SourceReader:
 
     def html(self, url):
         parts = urlsplit(url)
-        if parts.scheme != "https" or parts.hostname not in ("m.humoruniv.com", "web.humoruniv.com"):
-            raise ActionRequired("Only approved Humoruniv source pages may be opened.")
+        if parts.scheme != "https" or parts.hostname not in ("www.dogdrip.net", "dogdrip.net", "m.humoruniv.com", "web.humoruniv.com"):
+            raise ActionRequired("Only approved community source pages may be opened.")
+        if parts.hostname in ("www.dogdrip.net", "dogdrip.net"):
+            raw = public_download(url)
+            return raw.decode("utf-8", "ignore"), url
         try:
             # Humoruniv article images are inserted by page scripts. Read rendered DOM.
             if source_id(url) is None:
@@ -388,8 +417,8 @@ def cached_previous_feed(reader, media_dir):
             for image in images:
                 digest, url = image["digest"], image["source_url"]
                 host = urlsplit(url).hostname or ""
-                if not re.fullmatch(r"[0-9a-f]{64}", digest) or not (
-                        host == "humoruniv.com" or host.endswith(".humoruniv.com")):
+                if not re.fullmatch(r"[0-9a-f]{64}", digest) or not any(
+                        host == d or host.endswith("." + d) for d in ("dogdrip.net", "humoruniv.com")):
                     raise ActionRequired("Previous feed has an unapproved image.")
                 data = reader.image(url, referer=post["source_url"])
                 if hashlib.sha256(data).hexdigest() != digest:
