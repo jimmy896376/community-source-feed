@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-11-27T13:54:43.226881+00:00",
+  "generated_at": "2026-11-27T17:56:02.792446+00:00",
   "videos": [
+    {
+      "video_id": "FZzHTBa9TXM",
+      "title": "Costa Rica v Brazil | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-27T17:00:23+00:00",
+      "url": "https://www.youtube.com/watch?v=FZzHTBa9TXM"
+    },
+    {
+      "video_id": "s3mKBvL39y8",
+      "title": "Republic of Ireland v Tanzania | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-27T16:30:31+00:00",
+      "url": "https://www.youtube.com/watch?v=s3mKBvL39y8"
+    },
+    {
+      "video_id": "B6GHJh1oQpY",
+      "title": "Colombia v Serbia | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-27T15:30:37+00:00",
+      "url": "https://www.youtube.com/watch?v=B6GHJh1oQpY"
+    },
+    {
+      "video_id": "pWnMglAr-Ds",
+      "title": "Honduras v Japan | HIGHLIGHTS | FIFA U-17 World Cup 2026",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-27T15:15:25+00:00",
+      "url": "https://www.youtube.com/watch?v=pWnMglAr-Ds"
+    },
     {
       "video_id": "8IFwGEfE8hA",
       "title": "[여자프로농구] 삼성생명 vs 신한은행ㅣ5분 하이라이트 (11.27)",
@@ -152,22 +184,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-25T23:57:54+00:00",
       "url": "https://www.youtube.com/watch?v=UmduEY0uKbY"
-    },
-    {
-      "video_id": "m329TQAKbyI",
-      "title": "Australia v Mozambique | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-25T19:00:24+00:00",
-      "url": "https://www.youtube.com/watch?v=m329TQAKbyI"
-    },
-    {
-      "video_id": "tVgHalWj1Oc",
-      "title": "Denmark v Argentina | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-25T18:47:27+00:00",
-      "url": "https://www.youtube.com/watch?v=tVgHalWj1Oc"
     }
   ]
 }
