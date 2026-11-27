@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-11-27T04:10:47.436288+00:00",
+  "generated_at": "2026-11-27T13:54:43.226881+00:00",
   "videos": [
+    {
+      "video_id": "8IFwGEfE8hA",
+      "title": "[여자프로농구] 삼성생명 vs 신한은행ㅣ5분 하이라이트 (11.27)",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-27T12:18:55+00:00",
+      "url": "https://www.youtube.com/watch?v=8IFwGEfE8hA"
+    },
+    {
+      "video_id": "z6JD2dPTwJM",
+      "title": "Haaland Heads To Round Of 16 | Côte d'Ivoire v Norway | 2026 World Cup EXTENDED HIGHLIGHTS",
+      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
+      "channel": "FIFA",
+      "published_at": "2026-11-27T10:30:39+00:00",
+      "url": "https://www.youtube.com/watch?v=z6JD2dPTwJM"
+    },
     {
       "video_id": "_7K8i6VZDDg",
       "title": "[26/27 UEL] 유벤투스 vs 오모니아 하이라이트｜SPOTV FOOTBALL",
@@ -138,14 +154,6 @@
       "url": "https://www.youtube.com/watch?v=UmduEY0uKbY"
     },
     {
-      "video_id": "YYX8nTCrpBg",
-      "title": "[26/27 UCL] PSG vs AS로마 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-25T23:20:07+00:00",
-      "url": "https://www.youtube.com/watch?v=YYX8nTCrpBg"
-    },
-    {
       "video_id": "m329TQAKbyI",
       "title": "Australia v Mozambique | HIGHLIGHTS | FIFA U-17 World Cup 2026",
       "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
@@ -160,22 +168,6 @@
       "channel": "FIFA",
       "published_at": "2026-11-25T18:47:27+00:00",
       "url": "https://www.youtube.com/watch?v=tVgHalWj1Oc"
-    },
-    {
-      "video_id": "75UMcqVkltM",
-      "title": "Panama v Egypt | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-25T17:30:34+00:00",
-      "url": "https://www.youtube.com/watch?v=75UMcqVkltM"
-    },
-    {
-      "video_id": "eP88cBcDLdQ",
-      "title": "Greece v Qatar | HIGHLIGHTS | FIFA U-17 World Cup 2026",
-      "channel_id": "UCpcTrCXblq78GZrTUTLWeBw",
-      "channel": "FIFA",
-      "published_at": "2026-11-25T17:15:09+00:00",
-      "url": "https://www.youtube.com/watch?v=eP88cBcDLdQ"
     }
   ]
 }
