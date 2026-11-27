@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-26T23:33:25.691702+00:00",
+  "generated_at": "2026-11-27T04:10:47.436288+00:00",
   "videos": [
+    {
+      "video_id": "_7K8i6VZDDg",
+      "title": "[26/27 UEL] 유벤투스 vs 오모니아 하이라이트｜SPOTV FOOTBALL",
+      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
+      "channel": "SPOTV",
+      "published_at": "2026-11-27T00:28:17+00:00",
+      "url": "https://www.youtube.com/watch?v=_7K8i6VZDDg"
+    },
     {
       "video_id": "6n7PZNvrJaY",
       "title": "[26/27 UEL] 올림피아코스 vs AC 밀란 하이라이트｜SPOTV FOOTBALL",
@@ -136,22 +144,6 @@
       "channel": "SPOTV",
       "published_at": "2026-11-25T23:20:07+00:00",
       "url": "https://www.youtube.com/watch?v=YYX8nTCrpBg"
-    },
-    {
-      "video_id": "RfHbDcA-Eog",
-      "title": "[26/27 UCL] 릴 vs 바이에른 뮌헨 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-25T22:32:13+00:00",
-      "url": "https://www.youtube.com/watch?v=RfHbDcA-Eog"
-    },
-    {
-      "video_id": "pO9v00Glphg",
-      "title": "[26/27 UCL] 사바 vs 바르셀로나 하이라이트｜SPOTV FOOTBALL",
-      "channel_id": "UCtm_QoN2SIxwCE-59shX7Qg",
-      "channel": "SPOTV",
-      "published_at": "2026-11-25T20:27:02+00:00",
-      "url": "https://www.youtube.com/watch?v=pO9v00Glphg"
     },
     {
       "video_id": "m329TQAKbyI",
